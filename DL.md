@@ -29,3 +29,5 @@ https://zhuanlan.zhihu.com/p/24954433
 https://zhuanlan.zhihu.com/p/47579399
 
 
+http://caffe.berkeleyvision.org/tutorial/solver.html
+https://ethereon.github.io/netscope/#/editor中
