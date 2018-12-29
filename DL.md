@@ -21,8 +21,11 @@ https://blog.csdn.net/column/details/13752.html
 
 3	SSD
 https://blog.csdn.net/u010167269/article/details/52563573   （写的很好）
+
 https://zhuanlan.zhihu.com/p/29410169 （写的很好）
+
 https://zhuanlan.zhihu.com/p/31427288
+
 https://zhuanlan.zhihu.com/p/24954433
 
 5	RFCN
@@ -30,4 +33,6 @@ https://zhuanlan.zhihu.com/p/47579399
 
 
 http://caffe.berkeleyvision.org/tutorial/solver.html
-https://ethereon.github.io/netscope/#/editor中
+
+https://ethereon.github.io/netscope/#/editor
+
