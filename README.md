@@ -1,5 +1,7 @@
 # repo
 
+basic knowledge
+
 Python    http://www.runoob.com/python/python-tutorial.html
 Linux http://www.runoob.com/w3cnote/linux-common-command.html
 
