@@ -2,3 +2,30 @@
 https://zhuanlan.zhihu.com/p/50929457
 
 https://zhuanlan.zhihu.com/c_181106394
+
+检测算法总结：
+https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+
+https://zhuanlan.zhihu.com/p/39579528
+
+ 1	Faster RCNN
+https://zhuanlan.zhihu.com/p/30621997
+
+
+2	Yolo
+https://blog.csdn.net/hrsstudy/article/details/70305791
+
+源码解析：
+https://blog.csdn.net/column/details/13752.html
+
+
+3	SSD
+https://blog.csdn.net/u010167269/article/details/52563573   （写的很好）
+https://zhuanlan.zhihu.com/p/29410169 （写的很好）
+https://zhuanlan.zhihu.com/p/31427288
+https://zhuanlan.zhihu.com/p/24954433
+
+5	RFCN
+https://zhuanlan.zhihu.com/p/47579399
+
+
