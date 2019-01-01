@@ -1,6 +1,7 @@
 深度学习经典、前沿论文讲解（知乎专栏）
 https://zhuanlan.zhihu.com/liuyan0612
 
+https://blog.csdn.net/v_JULY_v/article/details/80170182
 
 小豆豆之人脸检测（知乎）
 https://zhuanlan.zhihu.com/p/50929457
