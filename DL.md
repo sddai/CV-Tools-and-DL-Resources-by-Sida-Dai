@@ -3,6 +3,10 @@ https://zhuanlan.zhihu.com/p/50929457
 
 https://zhuanlan.zhihu.com/c_181106394
 
+
+目标检测入门：
+https://juejin.im/entry/5a98edc06fb9a028c9797fc9
+
 检测算法总结：
 https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
