@@ -1,3 +1,8 @@
+无痛的机器学习第一季
+
+https://zhuanlan.zhihu.com/p/22464594
+
+
 深度学习经典、前沿论文讲解（知乎专栏）
 https://zhuanlan.zhihu.com/liuyan0612
 
