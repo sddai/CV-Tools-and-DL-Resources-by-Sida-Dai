@@ -1,3 +1,6 @@
+吴恩达 
+https://www.bilibili.com/video/av35144344?spm_id_from=333.788.b_765f64657363.1
+
 无痛的机器学习第一季
 
 https://zhuanlan.zhihu.com/p/22464594
