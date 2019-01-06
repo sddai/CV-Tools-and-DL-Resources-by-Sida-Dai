@@ -53,3 +53,6 @@ http://caffe.berkeleyvision.org/tutorial/solver.html
 
 https://ethereon.github.io/netscope/#/editor
 
+
+目标检测算法总结与对比【写的好】
+https://www.cnblogs.com/venus024/p/5590044.html
