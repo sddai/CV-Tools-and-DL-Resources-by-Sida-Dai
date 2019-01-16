@@ -65,10 +65,16 @@ https://lgwangh.github.io/
 
 
 https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+
 超分（https://github.com/huangzehao/caffe-vdsr）
+
 tensorflow(https://blog.csdn.net/xierhacker/article/category/6511974)
+
 pytorch(https://blog.csdn.net/u014380165/article/details/78525273)
+
 降噪的也有一系列代码可以参考（https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art）
+
+https://zhuanlan.zhihu.com/p/32206896
 
 
 caffe未定义的层：
