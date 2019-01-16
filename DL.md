@@ -60,6 +60,17 @@ https://www.cnblogs.com/venus024/p/5590044.html
 
 https://lgwangh.github.io/
 
+
+https://lgwangh.github.io/
+
+
+https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+超分（https://github.com/huangzehao/caffe-vdsr）
+tensorflow(https://blog.csdn.net/xierhacker/article/category/6511974)
+pytorch(https://blog.csdn.net/u014380165/article/details/78525273)
+降噪的也有一系列代码可以参考（https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art）
+
+
 caffe未定义的层：
 CReLU 层为PVANet中特殊的层结构，其结构如下，在Caffe中并没有标准的CReLU
 层作为单独的一层。
