@@ -76,6 +76,8 @@ pytorch(https://blog.csdn.net/u014380165/article/details/78525273)
 
 https://zhuanlan.zhihu.com/p/32206896
 
+专利查询网站
+https://patentscope.wipo.int/search/zh/result.jsf
 
 caffe未定义的层：
 CReLU 层为PVANet中特殊的层结构，其结构如下，在Caffe中并没有标准的CReLU
