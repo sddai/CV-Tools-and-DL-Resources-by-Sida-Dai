@@ -1,3 +1,5 @@
+https://github.com/AcceptedDoge/machine-learning-yearning-cn/blob/master/MLY-zh-cn.pdf
+
 吴恩达 
 https://www.bilibili.com/video/av35144344?spm_id_from=333.788.b_765f64657363.1
 
