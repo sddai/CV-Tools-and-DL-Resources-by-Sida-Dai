@@ -111,3 +111,7 @@ PSROIPooling层的操作与ROIPooling层类似，不同之处在于不同空间�
 Upsample层为Pooling层的逆操作，下图为一个示意图，其中每个Upsample层均与网
 络之前一个对应大小输入、输出Pooling层一一对应，完成feature map在spatial维度
 上的扩充。 
+
+人脸关键点检测
+
+https://mp.weixin.qq.com/s/w-ow_BP8FynTlimqBBjc8A
