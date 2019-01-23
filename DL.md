@@ -1,3 +1,5 @@
+https://zhuanlan.zhihu.com/p/31865988
+
 https://github.com/AcceptedDoge/machine-learning-yearning-cn/blob/master/MLY-zh-cn.pdf
 
 吴恩达 
