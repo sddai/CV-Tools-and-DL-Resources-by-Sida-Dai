@@ -1,3 +1,7 @@
+Google AI blog 论文
+
+https://ai.google/research/pubs/pub44873
+
 https://zhuanlan.zhihu.com/p/31865988
 
 https://github.com/AcceptedDoge/machine-learning-yearning-cn/blob/master/MLY-zh-cn.pdf
