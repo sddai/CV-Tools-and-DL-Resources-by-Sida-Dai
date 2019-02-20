@@ -42,5 +42,7 @@ def makeFileLists(imgPath, fileName='list.txt', withLabel=False, ext=['jpg','bmp
 if __name__ == "__main__":
     imagesPath = os.path.abspath(os.path.dirname(os.path.abspath(__file__)) + os.path.sep + ".")
     fileName = 'list.txt'
+    if os.path.exists('list.txt'):
+        os.remove('list.txt')
     makeFileLists(imagesPath, fileName, True)
     
