@@ -1,0 +1,247 @@
+
+https://www.google.com/search?newwindow=1&ei=1DlQXMiLA4uJjwSgk5LIBQ&q=keras+output+node+names&oq=keras+output+node+names&gs_l=psy-ab.3..0i30.219509.222213..223256...0.0..0.305.584.2-1j1......0....1..gws-wiz.......0i71.jbbUAK3TdbY | keras output node names - Google Search
+https://github.com/fizyr/keras-retinanet/issues/482 | How to get output_node_names (question) · Issue #482 · fizyr/keras-retinanet
+https://stackoverflow.com/questions/40028175/how-do-you-get-the-name-of-the-tensorflow-output-nodes-in-a-keras-model | python - How do you get the name of the tensorflow output nodes in a Keras Model? - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=QzpQXPuvD4vNjgSayJqwAg&q=mobilenet%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%82%E5%90%8D%E7%A7%B0&oq=mobilenet%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%82%E5%90%8D%E7%A7%B0&gs_l=psy-ab.3...582892.591130..591304...0.0..0.425.9453.2-26j5j1......0....1..gws-wiz.......0i71j0j0i131j0i67.jLmfkIWIGfE | mobilenet的最后一层名称 - Google Search
+https://blog.csdn.net/wfei101/article/details/80011651 | 经典网络结构：Inception到Mobilenet的蜕变 - BigCowPeking - CSDN博客
+https://keras.io/models/about-keras-models/ | About Keras models - Keras Documentation
+https://www.jianshu.com/p/091415b114e2 | TensorFlow固化模型 - 简书
+https://blog.csdn.net/m0_37052320/article/details/79845537?utm_source=blogxgwz1 | tensorflow 保存模型和取出中间权重 - binqiang2wang - CSDN博客
+https://blog.csdn.net/marsjhao/article/details/72829635#t0 | TensorFlow模型保存和提取方法 - marsjhao Blog - CSDN博客
+https://blog.csdn.net/sinat_29957455/article/details/78511119 | TensorFlow的convert_variables_to_constants函数 - 修炼之路 - CSDN博客
+https://blog.csdn.net/weixin_40400177/article/details/81098204 | tensorflow没有output结点，存储成pb文件 - weixin_40400177的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=tensorflow%E6%B2%A1%E6%9C%89output%E7%BB%93%E7%82%B9%EF%BC%8C%E5%AD%98%E5%82%A8%E6%88%90pb%E6%96%87%E4%BB%B6&btnK=Google+Search&oq=tensorflow%E6%B2%A1%E6%9C%89output%E7%BB%93%E7%82%B9%EF%BC%8C%E5%AD%98%E5%82%A8%E6%88%90pb%E6%96%87%E4%BB%B6 | tensorflow没有output结点，存储成pb文件 - Google Search
+https://www.jianshu.com/p/091415b114e2 | TensorFlow固化模型 - 简书
+https://blog.csdn.net/hustchenze/article/details/83660960 | tensorflow模型打包成PB文件及PB文件读取 - zchenack个人专栏 - CSDN博客
+https://blog.csdn.net/java211/article/details/4171634 | vi快捷键必知必会 - 宁静致远 - CSDN博客
+https://www.cnblogs.com/sddai/p/10335997.html | Keras模型的导出和pb文件的转换 - stardsd - 博客园
+https://www.google.com/search?newwindow=1&ei=ORlRXNOWEsjAsAWqurCgAw&q=tensorflow+%E8%BD%ACpb%E6%96%87%E4%BB%B6&oq=tensorflow+%E8%BD%ACpb%E6%96%87%E4%BB%B6&gs_l=psy-ab.3...15304.20489..21080...1.0..0.382.4992.3-15......0....1..gws-wiz.......0i71j0i7i30j0j0i8i7i30j0i13j0i8i13i30.xerk0LoiI-E | tensorflow 转pb文件 - Google Search
+https://www.tensorflow.org/guide/extend/model_files | A Tool Developer's Guide to TensorFlow Model Files  |  TensorFlow
+https://blog.csdn.net/u014365862/article/details/78404980 | 将tf训练的权重保存为CKPT,PB ,CKPT 转换成 PB格式。并将权重固化到图里面,并使用该模型进行预测 - MachineLP的专栏 - CSDN博客
+https://blog.csdn.net/lujiandong1/article/details/53385092 | tensorflow将训练好的模型freeze,即将权重固化到图里面,并使用该模型进行预测 - lujiandong1的专栏 - CSDN博客
+https://www.jianshu.com/p/091415b114e2 | TensorFlow固化模型 - 简书
+https://www.google.com/search?newwindow=1&ei=hR9RXKfzPIuRgge_oKegAw&q=python+%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F+%E5%8C%B9%E9%85%8D%E6%96%B9%E6%8B%AC%E5%8F%B7&oq=python+%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F+%E5%8C%B9%E9%85%8D%E6%96%B9%E6%8B%AC%E5%8F%B7&gs_l=psy-ab.3...68787.76516..77026...1.0..1.368.6399.3-19......0....1..gws-wiz.......0i71j0i12j0i67j0.2UR6RfHuAAM | python 正则表达式 匹配方括号 - Google Search
+https://blog.csdn.net/u013210620/article/details/78519244 | python基础-正则表达式、python使用正则 - Safly - CSDN博客
+https://blog.csdn.net/u010412858/article/details/83062200 | python正则表达式从字符串中提取数字 - 赵大宝的博客 - CSDN博客
+https://www.cnblogs.com/lovychen/p/5550670.html | python（15）提取字符串中的数字 - 细雨微光 - 博客园
+https://blog.csdn.net/jiuzuidongpo/article/details/40921825 | python两个文件合并 - 酒醉东坡的专栏 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=excel+join+%E4%B8%A4%E5%BC%A0%E8%A1%A8&btnK=Google+Search&oq=excel+join+%E4%B8%A4%E5%BC%A0%E8%A1%A8 | excel join 两张表 - Google Search
+https://blog.csdn.net/rainday0310/article/details/9130143 | Excel中像Mysql Join那样连接两个工作表 - 苗雨顺的专栏 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=dUJRXMyoCu6N_Qb1sYnwCg&q=NIMA+image&oq=NIMA+image&gs_l=psy-ab.3..0l2j0i22i30l8.17459.19635..20034...0.0..0.325.1933.3-6......0....1..gws-wiz.......0i71j0i67j0i131j0i10.aXknhcBwXL8 | NIMA image - Google Search
+https://arxiv.org/abs/1709.05424 | [1709.05424] NIMA: Neural Image Assessment
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=mobilenet+caffemodel&btnK=Google+Search&oq=mobilenet+caffemodel | mobilenet caffemodel - Google Search
+https://github.com/shicai/MobileNet-Caffe | shicai/MobileNet-Caffe: Caffe Implementation of Google's MobileNets (v1 and v2)
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=solver.prototxt+%E5%92%8C+deploy.prototxt+%E7%9A%84%E5%8C%BA%E5%88%AB&btnK=Google+Search&oq=solver.prototxt+%E5%92%8C+deploy.prototxt+%E7%9A%84%E5%8C%BA%E5%88%AB | solver.prototxt 和 deploy.prototxt 的区别 - Google Search
+https://blog.csdn.net/fx409494616/article/details/53008971 | 浅谈caffe中train_val.prototxt和deploy.prototxt文件的区别 - fx409494616的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+label%E6%96%87%E4%BB%B6%E5%9C%A8%E5%93%AA%E9%87%8C&btnK=Google+Search&oq=caffe+label%E6%96%87%E4%BB%B6%E5%9C%A8%E5%93%AA%E9%87%8C | caffe label文件在哪里 - Google Search
+https://www.cnblogs.com/empty16/p/4878164.html | Caffe使用step by step：caffe框架下的基本操作和分析 - Fight boy - 博客园
+https://www.google.com/search?newwindow=1&ei=419RXILTNIiesQXO2KDADg&q=TID2013+caffe&oq=TID2013+caffe&gs_l=psy-ab.3..33i160l2.21431.21940..22385...0.0..1.390.1611.2-1j4......0....1..gws-wiz.ykCrKEg4-Ec | TID2013 caffe - Google Search
+https://xialeiliu.github.io/RankIQA/src/ | Training examples on TID2013 and LIVE datasets | RankIQA
+https://www.google.com/search?newwindow=1&ei=6GBRXLyLN-yFggfU6Ln4BQ&q=mobilenet+fine+tuning+caffe&oq=mobilenet+fine+tuning+caffe&gs_l=psy-ab.3..33i299l3j33i160.1206.2505..2900...0.0..0.921.1610.3-2j6-1......0....1..gws-wiz.......0i71j0i22i30.qFNVmIbsD0A | mobilenet fine tuning caffe - Google Search
+https://www.ctolib.com/article/comments/55194 | Google MobileNets的一个Caffe实现 - C/C++开发 - 评论 | CTOLib码库
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+bmp%E6%A0%BC%E5%BC%8F&btnK=Google+Search&oq=caffe+bmp%E6%A0%BC%E5%BC%8F | caffe bmp格式 - Google Search
+https://www.bbsmax.com/A/mo5klbl2dw/ | Caffe应用篇----文件格式转换
+https://stackoverrun.com/cn/q/10685996 | deep-learning - Caffe“ImageNet”支持.jpg或.bmp图片吗？
+https://blog.csdn.net/jt911405/article/details/51149107 | [caffe]将自己的图片数据转换db格式 - jt911405的博客 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%20error%20while%20loading%20shared%20libraries%3A%20libcudart.so.9.0%3A%20cannot%20open%20shared%20object%20file%3A%20No%20such%20file%20or%20directory&rsv_pq=deb263bb0000c51a&rsv_t=9b96iKysS%2Fq6jRdxGl5EV5U6kDfR0KPZVFl37g1KP0KpdSCpJVWLsXu4cbA&rqlang=cn&rsv_enter=1&rsv_sug3=2&rsv_n=2&rsv_sug2=0&inputT=749&rsv_sug4=888 | error while loading shared libraries: libcudart.so.9.0: cannot open shared o_百度搜索
+https://blog.csdn.net/LN_IOS/article/details/79888955 | tensorflow-gpu: libcudart.so.9.0: cannot open shared object file - LN_IOS的博客 - CSDN博客
+https://blog.csdn.net/qq_38451119/article/details/81126692 | error while loading shared libraries: libcudart.so.8.0: cannot open shared object file: can not open - volcano_Lin 的博客 - CSDN博客
+https://www.cnblogs.com/Anker/p/3209876.html | error while loading shared libraries: xxx.so.x" 错误的原因和解决办法 - Rabbit_Dale - 博客园
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Check+failed%3A+mkdir(source.c_str()%2C+0744)+%3D%3D+0+(-1+vs.+0)+mkdir+TID2013.lmdb+failed&btnK=Google+Search&oq=Check+failed%3A+mkdir(source.c_str()%2C+0744)+%3D%3D+0+(-1+vs.+0)+mkdir+TID2013.lmdb+failed | Check failed: mkdir(source.c_str(), 0744) == 0 (-1 vs. 0) mkdir TID2013.lmdb failed - Google Search
+https://github.com/BVLC/caffe/issues/6096 | check failed: -mkdir(source.c_str())==0 (-1 vs. 0) mkdir failed · Issue #6096 · BVLC/caffe
+https://groups.google.com/forum/#!topic/caffe-users/7jMCb-4u2Hk | db_lmdb.cpp:18] check failed: _mkdir(source.c_str())==0 (-1 vs. 0) mkdir failed - Google 网上论坛
+https://github.com/BVLC/caffe/issues/3854 | ./create_imagenet.sh wrong,while use my own dataset. · Issue #3854 · BVLC/caffe
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8lmdb%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B&btnK=Google+Search&oq=caffe+%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8lmdb%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B | caffe 如何使用lmdb训练模型 - Google Search
+https://blog.csdn.net/u013832707/article/details/52943935 | Caffe学习：从头到尾跑一遍模型的训练和测试 - 持久决心的博客 - CSDN博客
+https://www.cnblogs.com/denny402/p/5083300.html | Caffe学习系列(12)：训练和测试自己的图片 - denny402 - 博客园
+https://blog.csdn.net/sinat_26917383/article/details/54141697 | 利用Caffe训练模型(solver、deploy、train_val)+python使用已训练模型 - 素质云笔记/Recorder... - CSDN博客
+https://blog.csdn.net/liuweizj12/article/details/52152911 | 深度学习caffe平台--train_val.prototxt文件中数据层及参数详解 - liuweizj12的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&q=%22caffe%22+what():+bad+lexical+cast:+source+type+value+could+not+be+interpreted+as+target&sa=X&ved=2ahUKEwjY8K2dnJXgAhVP1qwKHSomAdkQ5t4CMAN6BAgHEAw&biw=1536&bih=775 | "caffe" what(): bad lexical cast: source type value could not be interpreted as target - Google Search
+https://github.com/shendurelab/MIPGEN/issues/3 | bad lexical cast: source type value could not be interpreted as target · Issue #3 · shendurelab/MIPGEN
+https://forums.autodesk.com/t5/fusion-360-design-validate/error-bad-lexical-cast-source-type-value-could-not-be/td-p/5427140 | Solved: Error: bad lexical cast: source type value could not be interpreted as target - Autodesk Community- Fusion 360
+https://groups.google.com/forum/#!topic/caffe-users/1-YZz-xXs3Q | How to prepare the lmdb training data to train a convolutional auto-encoder ? - Google 网上论坛
+https://github.com/MichalBusta/DeepTextSpotter/issues/17 | issue while running train.py · Issue #17 · MichalBusta/DeepTextSpotter
+https://www.google.com/search?newwindow=1&ei=2HJRXJSZH4yuswXOkY7wDg&q=python++bmp+%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2+jpg&oq=python++bmp+%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2+jpg&gs_l=psy-ab.3...138915.143861..144002...0.0..0.366.4912.2-14j3......0....1..gws-wiz.......0i71j0i7i30j0i8i30j0i30.mUiP_B7IpfI | python bmp 批量转换 jpg - Google Search
+https://my.oschina.net/u/3629884/blog/1506825 | 学习笔记（番外篇）——python批量转换图片格式 - hei_6775的个人空间 - 开源中国
+https://www.google.com/search?newwindow=1&ei=h3NRXIW8LYPYtQWi1o-YDA&q=caffe+l1&oq=caffe+l1&gs_l=psy-ab.3..0l10.57506611.57509827..57510067...1.0..0.604.2913.2-3j3j0j2......0....1..gws-wiz.......0i71j0i131j0i67._PcJCUYzovk | caffe l1 - Google Search
+
+https://www.google.com/search?newwindow=1&ei=6nNJXKSFHIPStAXDopTwBg&q=nasnet-A&oq=nasnet-A&gs_l=psy-ab.3..0j0i10j0j0i10i30j0i30l2j0i10i30l2j0i8i30l2.165312838.165313688..165314245...0.0..0.325.642.3-2......0....1..gws-wiz.......0i71.TTA6fcLp50s | nasnet-A - Google Search
+https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet | models/research/slim/nets/nasnet at master · tensorflow/models
+https://github.com/johannesu/NASNet-keras | johannesu/NASNet-keras: Keras implementation of NASNet-A
+https://arxiv.org/pdf/1707.07012.pdf | 1707.07012.pdf
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=NIMA+TID2013&btnK=Google+Search&oq=NIMA+TID2013 | NIMA TID2013 - Google Search
+https://github.com/titu1994/neural-image-assessment/issues/14 | why high score from the distorted image · Issue #14 · titu1994/neural-image-assessment
+https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html | Google AI Blog: Introducing NIMA: Neural Image Assessment
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=TID2013+GitHub&btnK=Google+Search&oq=TID2013+GitHub | TID2013 GitHub - Google Search
+https://github.com/xialeiliu/RankIQA/tree/master/data | RankIQA/data at master · xialeiliu/RankIQA
+https://github.com/xialeiliu/RankIQA/tree/master/src | RankIQA/src at master · xialeiliu/RankIQA
+https://www.google.com/search?newwindow=1&ei=jbdKXPvnMciUsgWnspfQBQ&q=image+quality+assessment+deep+learning&oq=Image+Quality+Assessment++&gs_l=psy-ab.1.1.0l10.22464.23102..25967...0.0..0.295.875.2-3......0....2j1..gws-wiz.......0i71j0i67.Bt5yxxCVutE | image quality assessment deep learning - Google Search
+https://www.google.com/search?newwindow=1&ei=dbpKXJedMcuwtgWl-Ya4Dw&q=EMD+%E5%9B%BE%E5%83%8F&oq=EMD+%E5%9B%BE%E5%83%8F&gs_l=psy-ab.3..33i160l2.94765.102417..102638...15.0..1.312.2696.2-5j4......0....1..gws-wiz.......0i71j0i67j0i131j0j0i10j0i10i67j0i13i30j0i13i5i30.A6zGWA5mn8A | EMD 图像 - Google Search
+https://blog.csdn.net/fangjian1204/article/details/11475995 | opencv中图像一种相似性度量方法-------EMD - fangjian1204的专栏 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=K7BPXPiFGsa70PEPk8qzcA&q=%E7%BB%B4%E7%BA%B3%E6%BB%A4%E6%B3%A2&oq=%E7%BB%B4%E7%BA%B3%E6%BB%A4%E6%B3%A2&gs_l=psy-ab.3...2894.8573..8745...2.0..0.308.1784.2-3j3......0....1..gws-wiz.......0.XBmxvQ7A3IU | 维纳滤波 - Google Search
+https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%BB%A4%E6%B3%A2 | 维纳滤波 - 维基百科，自由的百科全书
+https://github.com/idealo/image-quality-assessment | idealo/image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+https://github.com/hcl14/AVA-and-TID2013-image-quality-assessment | hcl14/AVA-and-TID2013-image-quality-assessment: Replication for NIMA image quality assesment with some thoughts on quality of the models obtained
+https://www.google.com/search?newwindow=1&ei=1htMXNqNLJL4sgWZvYmADQ&q=MDSI+IQA&oq=MDSI+IQA&gs_l=psy-ab.3..33i160.14687.15372..16027...0.0..0.293.867.2-3......0....1..gws-wiz.......0i71j0j0i22i10i30j0i22i30.X6fuX8kkxgU | MDSI IQA - Google Search
+https://www.jianshu.com/p/b12dc6d634c1 | 图像质量评价标准简介 - 简书
+https://blog.csdn.net/shanshangyouzhiyangM/article/details/85225653 | 【论文阅读】近期的IQA文章（17-18年） - 山上有只羊M - CSDN博客
+https://www.jianshu.com/p/17288627b994 | Conda工具使用 - 简书
+https://www.google.com/search?newwindow=1&ei=28BLXMGpJc22ggfyuoXgAw&q=argparse+%E5%9C%A8%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E4%B8%AD%E5%BC%95%E7%94%A8%E5%8F%82%E6%95%B0&oq=argparse+%E5%9C%A8%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E4%B8%AD%E5%BC%95%E7%94%A8%E5%8F%82%E6%95%B0&gs_l=psy-ab.3...1431.11052..11207...2.0..1.358.12661.3-38......0....1..gws-wiz.......0i71j0i67j0j0i22i30j0i22i10i30j33i160.fQnuathQ7YE | argparse 在另一个函数中引用参数 - Google Search
+https://blog.csdn.net/yugongpeng_blog/article/details/46693471 | argparse - 命令行选项与参数解析 - 余功鹏的专栏 - CSDN博客
+https://arxiv.org/pdf/1608.07433.pdf | 1608.07433.pdf
+https://www.google.com/search?newwindow=1&ei=xt5LXOzEGtCAtgWk-pbwAg&q=MDSI+iqa&oq=MDSI+iqa&gs_l=psy-ab.3..33i160.32314.33883..34522...0.0..0.305.1169.2-2j2......0....1..gws-wiz.......0i71j0j0i67j0i22i10i30j0i22i30.esst2sj1EFY | MDSI iqa - Google Search
+https://arxiv.org/abs/1707.08347 | [1707.08347] RankIQA：从排名中学习无参考图像质量评估
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=RankIQA&rn=&oq=&rsv_pq=ccdbc2d10004184b&rsv_t=9979g26Rmn%2B5JEUWkqmTKgg2yuW2BKFQ6FJE2rc0aJs8MNSP6f%2Fj8WI7Q48&rqlang=cn | RankIQA_百度搜索
+https://blog.csdn.net/qq_22194315/article/details/82705021 | RankIQA:Learning from Rankings for No-reference Image Quality Assessment论文阅读笔记 - 湛蓝的天空 - CSDN博客
+https://blog.csdn.net/iamagentleman/article/details/81223287 | 基于CNN的图像质量评价 - iamagentleman的博客 - CSDN博客
+http://www.pudn.com/Download/item/id/3646080.html | RankIQA-master 实现图片质量评估，使用Siames网络进行传统方法的改进 联合开发网 - pudn.com
+https://blog.csdn.net/sinat_22147265/article/details/82821672 | RankIQA:Learning from Rankings for No-reference Image Quality Assessment - 鱼奶奶的花园 - CSDN博客
+https://www.jianshu.com/p/0ea334046ed4 | 图像质量评价——Hallucinated-IQA: No-Reference Image Qu... - 简书
+https://zhuanlan.zhihu.com/p/32553977 | 图像质量评估综述 - 知乎
+https://www.smwenku.com/a/5c015e67bd9eee7aed33a7f4 | 論文筆記（4）：排序圖像質量評價 RankIQA - 神馬文庫
+https://www.ydaobo.com/wenzhang/57101.html | 【泡泡一分钟】RankIQA:基于排序的无参考图像质量评价方法（ICCV2017-109)
+http://www.zhuanzhi.ai/document/16e38b113f58f6eb67aaed8577764938 | 【泡泡一分钟】RankIQA: 基于排序的无参考图像质量评价方法（ICCV2017-109) - 专知
+https://www.itbox.info/p/1049812/rankiqa-learning-from-rankings-for-reference-image-quality-assessment | 【人脸质量评估】RankIQA Learning from Rankings for No-reference Image Quality Assessment - IT盒子
+https://www.google.com/search?newwindow=1&ei=_LpPXMSAHsu80PEPoMW2kAE&q=python+EMD&oq=python+EMD&gs_l=psy-ab.3..0j0i10j0l2j0i22i30j0i22i10i30j0i22i30l3j0i22i10i30.15952.16575..18350...0.0..0.322.903.2-2j1......0....1..gws-wiz.......0i71j0i67j0i131.M2BQEvvkhj4 | python EMD - Google Search
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html | scipy.stats.wasserstein_distance — SciPy v1.2.0 Reference Guide
+https://en.wikipedia.org/wiki/Wasserstein_metric | Wasserstein metric - Wikipedia
+https://pypi.org/project/pyemd/ | pyemd · PyPI
+https://en.wikipedia.org/wiki/Earth_mover%27s_distance | Earth mover's distance - Wikipedia
+http://ofirpele.droppages.com/ | Ofir Pele's Home Page
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=UserWarning%3A+Possibly+corrupt+EXIF+data.+Expecting+to+read+3144+bytes+but+only+got+816.+Skipping+tag+34675&btnK=Google+Search&oq=UserWarning%3A+Possibly+corrupt+EXIF+data.+Expecting+to+read+3144+bytes+but+only+got+816.+Skipping+tag+34675 | UserWarning: Possibly corrupt EXIF data. Expecting to read 3144 bytes but only got 816. Skipping tag 34675 - Google Search
+https://github.com/uber/horovod/issues/333 | pytorch_imagenet_resnet50.py gives Possibly corrupt EXIF data. Expecting to read 2555904 bytes but only got 0. Skipping tag 0 · Issue #333 · uber/horovod
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Android+studio+license&btnK=Google+Search&oq=Android+studio+license | Android studio license - Google Search
+https://developer.android.com/studio/terms | 条款及条件  |  Android Developers
+
+https://xialeiliu.github.io/RankIQA/ | RankIQA: Learning from Rankings for No-reference Image Quality Assessment | RankIQA
+https://github.com/xialeiliu/RankIQA | xialeiliu/RankIQA: The rep for the RankIQA paper in ICCV 2017
+https://github.com/xialeiliu/RankIQA/tree/master/src | RankIQA/src at master · xialeiliu/RankIQA
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=tensorflow+Conv2d+SeparableConv2D&btnK=Google+Search&oq=tensorflow+Conv2d+SeparableConv2D | tensorflow Conv2d SeparableConv2D - Google Search
+https://www.tensorflow.org/api_docs/python/tf/nn/separable_conv2d | tf.nn.separable_conv2d  |  TensorFlow
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=keras+model.inputs&btnK=Google+Search&oq=keras+model.inputs | keras model.inputs - Google Search
+https://keras.io/models/model/ | Model (functional API) - Keras Documentation
+https://www.google.com/search?newwindow=1&ei=ceVSXIrIMYnW5gLp9rCgCg&q=separableconv2d+tensorflow&oq=SeparableConv2D+&gs_l=psy-ab.3.3.0l3j0i30j0i10i30l2j0i5i10i30l2.27031.27031..30983...0.0..0.321.321.3-1......0....1..gws-wiz.......0i71.EGcKk_btZNQ | separableconv2d tensorflow - Google Search
+https://www.tensorflow.org/versions/r1.9/api_docs/python/tf/layers/conv2d | tf.layers.conv2d  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/DepthwiseConv2D | tf.keras.layers.DepthwiseConv2D  |  TensorFlow
+https://keras.io/layers/convolutional/ | Convolutional Layers - Keras Documentation
+https://www.google.com/search?newwindow=1&ei=BhxQXLurEYqvjwSfg63AAg&q=tensorflow+hdf5%E8%BD%ACpb&oq=tensorflow+hdf5%E8%BD%ACpb&gs_l=psy-ab.3...351587.357775..358465...0.0..0.646.3944.2-5j6j0j1......0....1..gws-wiz.......0i71.iPXl-DSnImU | tensorflow hdf5转pb - Google Search
+https://blog.csdn.net/g11d111/article/details/84136404 | Tensorflow① 模型转换 ckpt转pb h5转pb - g11d111的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+python3&btnK=Google+Search&oq=caffe+python3 | caffe python3 - Google Search
+https://stackoverflow.com/questions/48268511/caffe-python3-installation | python 3.5 - Caffe Python3 Installation - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=wexSXO7kLciUtQXg65DQAQ&q=ldconfig+%E8%A7%A3%E6%9E%90&oq=ldconfig+%E8%A7%A3%E6%9E%90&gs_l=psy-ab.3..33i160.795.3581..3805...0.0..0.295.1695.2-6......0....1..gws-wiz.......0i71j0j0i67j0i22i30.uvGwNf1WQg4 | ldconfig 解析 - Google Search
+https://blog.csdn.net/bestone0213/article/details/42235545 | ldconfig是一个动态链接库管理命令 - 路在脚下 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=.%2Finclude%2Fcaffe%2Futil%2Fcudnn.hpp%3A8%3A34%3A+fatal+error%3A+caffe%2Fproto%2Fcaffe.pb.h%3A+No+such+file+or+directory&btnK=Google+Search&oq=.%2Finclude%2Fcaffe%2Futil%2Fcudnn.hpp%3A8%3A34%3A+fatal+error%3A+caffe%2Fproto%2Fcaffe.pb.h%3A+No+such+file+or+directory | ./include/caffe/util/cudnn.hpp:8:34: fatal error: caffe/proto/caffe.pb.h: No such file or directory - Google Search
+https://github.com/NVIDIA/DIGITS/issues/105 | fatal error: caffe/proto/caffe.pb.h: No such file or directory · Issue #105 · NVIDIA/DIGITS
+https://github.com/BVLC/caffe/issues/5078 | Build Caffe and pycaffe · Issue #5078 · BVLC/caffe
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=conda+2+%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA+python3+%E7%8E%AF%E5%A2%83&btnK=Google+Search&oq=conda+2+%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA+python3+%E7%8E%AF%E5%A2%83 | conda 2 新建一个 python3 环境 - Google Search
+https://www.google.com/search?newwindow=1&ei=RfdSXN2fCI2GsQW33rhA&q=make+caffe+error%3A+%E2%80%98cv%E2%80%99+does+not+name+a+type&oq=make+caffe+error%3A+%E2%80%98cv%E2%80%99+does+not+name+a+type&gs_l=psy-ab.3...8439.10314..10567...0.0..0.339.2924.2-8j2......0....1..gws-wiz.SJK5fpBGOto | make caffe error: ‘cv’ does not name a type - Google Search
+https://stackoverflow.com/questions/44564020/opencv-2-4-13-error-moments-in-namespace-cv-does-not-name-a-type | c++ - OpenCV 2.4.13 error: ‘Moments’ in namespace ‘cv’ does not name a type - Stack Overflow
+https://github.com/CMU-Perceptual-Computing-Lab/caffe_train/issues/6 | Compilations error since the `opencv_contrib` · Issue #6 · CMU-Perceptual-Computing-Lab/caffe_train
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=python%2Fcaffe%2F_caffe.so%3A+undefined+symbol%3A+_ZN5boost6python6detail11init_moduleER11PyModuleDefPFvvE&btnK=Google+Search&oq=python%2Fcaffe%2F_caffe.so%3A+undefined+symbol%3A+_ZN5boost6python6detail11init_moduleER11PyModuleDefPFvvE | python/caffe/_caffe.so: undefined symbol: _ZN5boost6python6detail11init_moduleER11PyModuleDefPFvvE - Google Search
+https://github.com/BVLC/caffe/issues/5810 | Anaconda Python 3.6 raise undefined symbol error · Issue #5810 · BVLC/caffe
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=_caffe.so%3A%20undefined%20symbol%3A%20_ZN5boost6python6detail11init_moduleER11PyModuleDefPFvvE&rsv_pq=a565de9b0006116d&rsv_t=dfa3BductpBXgblmJjjcXzwvcXufi2a1T3%2B9sMK8eBGyX%2FwL8S73C82Cc%2FM&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug2=0&inputT=834&rsv_sug4=834 | _caffe.so: undefined symbol: _ZN5boost6python6detail11init_moduleER11PyModul_百度搜索
+https://blog.csdn.net/sinat_35406909/article/details/84198140 | Ubuntu 16.04下安装Caffe解决 undefined symbol: _ZN5boost6python6detail11init_moduleER11PyModuleDefPFvvE - J. Cole - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe.pb.h%3A17%3A2%3A+error%3A+%23error+This+file+was+generated+by+an+older+version+of+protoc+which+is&btnK=Google+Search&oq=caffe.pb.h%3A17%3A2%3A+error%3A+%23error+This+file+was+generated+by+an+older+version+of+protoc+which+is | caffe.pb.h:17:2: error: #error This file was generated by an older version of protoc which is - Google Search
+https://github.com/BVLC/caffe/issues/5645 | Build Caffe: #error This file was generated by an older version of protoc which is · Issue #5645 · BVLC/caffe
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=caffe.pb.h%3A17%3A2%3A%20error%3A%20%23error%20This%20file%20was%20generated%20by%20an%20older%20version%20of%20protoc%20which%20is&rsv_pq=be235d3d0004faa4&rsv_t=c072I%2FdVAhbOvBCBLDjn%2Bubnj5ASr0WDmJRZNWuBOOPNO8pqgtRyw4AJUIc&rqlang=cn&rsv_enter=0&rsv_sug3=2&rsv_n=2&inputT=1516&rsv_sug4=1666 | caffe.pb.h:17:2: error: #error This file was generated by an older version o_百度搜索
+https://blog.csdn.net/elysion122/article/details/64523339 | Caffe安装中多版本protoc选择问题 - elysion122的博客 - CSDN博客
+https://blog.csdn.net/blankai/article/details/80077100 | proto/caffe.pb.h:17:2: error: #error This file was generated by an older version of protoc - blankai的博客 - CSDN博客
+https://blog.csdn.net/qq_38469553/article/details/81260914 | caffe.pb.h:17:2: error: #error This file was generated by an older version of protoc 问题解决 - qq_38469553的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=ImportError%3A+libcudnn.so.6%3A+cannot+open+shared+object+file%3A+No+such+file+or+directory&btnK=Google+Search&oq=ImportError%3A+libcudnn.so.6%3A+cannot+open+shared+object+file%3A+No+such+file+or+directory | ImportError: libcudnn.so.6: cannot open shared object file: No such file or directory - Google Search
+https://github.com/tensorflow/tensorflow/issues/12416 | Outdated Documentation (ImportError: libcudnn.so.6) · Issue #12416 · tensorflow/tensorflow
+https://stackoverflow.com/questions/41991101/importerror-libcudnn-when-running-a-tensorflow-program | ImportError: libcudnn when running a TensorFlow program - Stack Overflow
+https://github.com/Franck-Dernoncourt/NeuroNER/issues/66 | ImportError: libcudnn.so.6: cannot open shared object file: No such file or directory · Issue #66 · Franck-Dernoncourt/NeuroNER
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=tensorflow%20%20%20cudnn7&oq=Import%2526gt%253Brror%253A%2520libcudnn.so.6%253A%2520cannot%2520open%2520shared%2520object%2520file%253A%2520No%2520such%2520file%2520or&rsv_pq=f71957a100065bdc&rsv_t=70fclksY6rJn2hnfm0U%2BTUCMcKxnp5LkI7pW6UK0pPReleoOxTcsR9V10gg&rqlang=cn&rsv_enter=0&inputT=2242&rsv_sug3=5&rsv_n=2&rsv_sug4=2809 | tensorflow cudnn7_百度搜索
+https://blog.csdn.net/wwtor/article/details/80603296 | Win10 64 位Tensorflow-gpu安装（VS2017+CUDA9.2+cuDNN7.1.4+python3.6.5） - wwtor的博客 - CSDN博客
+https://blog.csdn.net/qq_29921623/article/details/78110853 | import tensorflow 出错libcudnn.so.6: cannot open shared object file: No such file or directory - qq_29921623的博客 - CSDN博客
+https://developer.nvidia.com/rdp/cudnn-archive | cuDNN Archive | NVIDIA Developer
+https://www.google.com/search?newwindow=1&ei=aLpTXImeKISY_Qau2ZjIAQ&q=tensorflow+++cudnn7&oq=tensorflow+++cudnn7&gs_l=psy-ab.3..0i10i30l3j0i8i10i30l4j0i8i30.45354.45354..49033...0.0..0.324.324.3-1......0....1..gws-wiz.......0i71.TEu9lJFAs6c | tensorflow cudnn7 - Google Search
+https://www.google.com/search?newwindow=1&ei=7LpTXK7eENCzggebk5GwDg&q=pip+%E5%8D%87%E7%BA%A7%E5%8C%85&oq=pip++%E5%8D%87%E7%BA%A7&gs_l=psy-ab.3.1.0i67l3j0i12j0j0i12l3j0l2.496.3588..5873...0.0..0.1175.4727.3-8j6-1j1......0....1..gws-wiz.......0i71j0i10j0i22i30j0i22i10i30.t6DfvHeV-pQ | pip 升级包 - Google Search
+https://blog.csdn.net/crisschan/article/details/53214439 | pip 安装、升级、升级固定的包 - 测者陈磊 - CSDN博客
+https://blog.csdn.net/Winterto1990/article/details/47455405 | pip的安装，更新，卸载模块以及使用方法 python - Winterto1990的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=4OZTXImEMuOatgXk5bXwCg&q=NIMA+IQA+github&oq=NIMA+IQA+github&gs_l=psy-ab.3...11603.14946..15299...0.0..0.301.2024.2-6j1......0....1..gws-wiz.......0i71j33i299j33i160.ls5ImPHrgFU | NIMA IQA github - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=AttributeError%3A+%27NoneType%27+object+has+no+attribute+%27to_csv%27&btnK=Google+Search&oq=AttributeError%3A+%27NoneType%27+object+has+no+attribute+%27to_csv%27 | AttributeError: 'NoneType' object has no attribute 'to_csv' - Google Search
+https://stackoverflow.com/questions/42407451/to-csv-where-am-i-wrong | python - to_csv, Where am I wrong - Stack Overflow
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=pandas+%E5%B0%86%E5%BA%8F%E6%8E%92%E5%88%97&btnK=Google+Search&oq=pandas+%E5%B0%86%E5%BA%8F%E6%8E%92%E5%88%97 | pandas 将序排列 - Google Search
+https://blog.csdn.net/u014662865/article/details/59058039 | pandas学习：对series和dataframe进行排序 - u014662865的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=XPRTXNnBBM3wsAWk0ouAAg&q=opencv+%E6%8C%89%E7%85%A7%E5%88%97%E8%A1%A8+%E5%B0%86%E6%96%87%E5%AD%97%E6%89%93%E5%9C%A8%E5%9B%BE%E5%83%8F%E4%B8%8A&oq=opencv+%E6%8C%89%E7%85%A7%E5%88%97%E8%A1%A8+%E5%B0%86%E6%96%87%E5%AD%97%E6%89%93%E5%9C%A8%E5%9B%BE%E5%83%8F%E4%B8%8A&gs_l=psy-ab.3..0i71l8.9667.10371..10591...0.0..0.361.1484.2-4j1......0....1..gws-wiz.mLnCf2f5-HE | opencv 按照列表 将文字打在图像上 - Google Search
+https://blog.csdn.net/hackerjoy/article/details/8254581 | Python for opencv 之 显示图像及在图像上书写文字 - Flying cat - CSDN博客
+https://github.com/idealo/image-quality-assessment | idealo/image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%23coding+%3D+utf-8&btnK=Google+Search&oq=%23coding+%3D+utf-8 | #coding = utf-8 - Google Search
+https://stackoverflow.com/questions/4872007/where-does-this-come-from-coding-utf-8 | python - Where does this come from: -*- coding: utf-8 -*- - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=FBpVXMSJDI2w_QbEkYKQCw&q=python+read+all+images+in+a+dir++github&oq=python+read+all+images+in+a+dir++github&gs_l=psy-ab.3...4154.6266..6665...0.0..0.366.2786.3-8......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30j33i160.fQYrHXr-AH0 | python read all images in a dir github - Google Search
+https://github.com/sanpreet/Read-Multiple-images-from-a-folder-using-python-cv2/blob/master/reading_multiple_images_opencv2.py | Read-Multiple-images-from-a-folder-using-python-cv2/reading_multiple_images_opencv2.py at master · sanpreet/Read-Multiple-images-from-a-folder-using-python-cv2
+
+https://www.jianshu.com/p/e439a75680cc | Android开发爬坑记（不断更新中） - 简书
+https://blog.csdn.net/pyfysf/article/details/78486201 | android异常 More than one file was found with OS independent path 'META-INF/XXX' - pyfysf - CSDN博客
+https://blog.csdn.net/hyr83960944/article/details/39961737 | Android Studio如何设置代码自动提示 - hyr83960944的专栏 - CSDN博客
+https://developer.android.com/s/results/?q=Error+configuring&p=%2Fstudio%2F | 关于“Error configuring”的搜索结果   |   Android Developers
+https://login.huawei.com/login/?redirect=http%3A%2F%2Fw3.huawei.com%2Fnext%2Findexa.html | Login @ Huawei
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Android+jni%E6%98%AF%E4%BB%80%E4%B9%88&btnK=Google+Search&oq=Android+jni%E6%98%AF%E4%BB%80%E4%B9%88 | Android jni是什么 - Google Search
+https://blog.csdn.net/carson_ho/article/details/73250163 | Android：JNI 与 NDK到底是什么？（含实例教学） - 专注分享 Android开发 干货 - CSDN博客
+https://login.huawei.com/login/?redirect=http%3A%2F%2F3ms.huawei.com%2Fkm%2Fblogs%2Fdetails%2F2356003 | Login @ Huawei
+https://www.google.com/search?q=executing%20external%20native%20build%20for%20cmake | executing external native build for cmake - Google Search
+https://blog.csdn.net/sinat_29384657/article/details/76020930 | android studio大坑 executing external native build for cmake - android的博客 - CSDN博客
+https://blog.csdn.net/kidults/article/details/80599923 | Android Studio 报错 executing external native build for cmake xxx CMakeLists.txt - 风云的的博客 - CSDN博客
+https://www.jianshu.com/p/909661cce8bc | Cmake Error:executing external native build for... - 简书
+https://www.jianshu.com/p/132e18851d3e | Jni/NDK常见问题 - 简书
+https://stackoverflow.com/questions/41536040/external-native-build-issues-android-studio-ndk-sample-hellojni-build-failed | java - External Native Build Issues Android Studio NDK Sample HelloJni (Build Failed) - Stack Overflow
+https://stackoverflow.com/questions/42993587/setting-explict-annotation-processor# | android - Setting Explict Annotation Processor - Stack Overflow
+https://developer.android.com/studio/build/#settings-file | 配置构建  |  Android Developers
+https://www.google.com/search?newwindow=1&ei=U7RGXNLEG8TdhwOR_rsI&q=gradle++auto-value-1.5.2.jar&oq=gradle++auto-value-1.5.2.jar&gs_l=psy-ab.3...3484945.3486829..3487244...0.0..0.96.691.8......0....1..gws-wiz.......0i13.mCeZinfAbZk | gradle auto-value-1.5.2.jar - Google Search
+https://stackoverflow.com/questions/50492329/could-not-download-auto-value-jar-com-google-auto-valueauto-value1-5-2-no-c | android - Could not download auto-value.jar (com.google.auto.value:auto-value:1.5.2): No cached version available for offline mode - Stack Overflow
+https://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library/16628496#16628496 | Android Studio: Add jar as library? - Stack Overflow
+https://developer.android.com/studio/build/dependencies?utm_source=android-studio#annotation_processor | Add build dependencies  |  Android Developers
+https://github.com/google/auto/issues/268 | Separate AutoValue Annotations and Processor into different dependencies. · Issue #268 · google/auto
+https://blog.csdn.net/xx326664162/article/details/68490059 | 你必须知道的APT、annotationProcessor、android-apt、Provided、自定义注解 - 薛瑄的博客 - CSDN博客
+https://juejin.im/entry/5b2382d851882574bf63efc0 | 注解处理器（Annotation Processor）简析 - Android - 掘金
+https://github.com/google/auto/blob/master/value/userguide/index.md | auto/index.md at master · google/auto
+https://blog.csdn.net/donkor_/article/details/79020482 | AndroidStudio3.0 注解报错Annotation processors must be explicitly declared now. - donkor_的博客 - CSDN博客
+https://stackoverflow.com/questions/44084251/android-studio-3-0-canary-1-annotation-processor-error | Android Studio 3.0 Canary 1 annotation processor error - Stack Overflow
+https://blog.csdn.net/jkloshhm/article/details/76527622 | 最新版AndroidStudio3.0 Canary 8的时候报错，Annotation processors must be explicitly declared now - jkloshhm的博客 - CSDN博客
+https://stackoverflow.com/questions/46963498/annotation-processors-must-be-explicitly-declared-now | java - Annotation processors must be explicitly declared now - Stack Overflow
+https://blog.csdn.net/donkor_/article/details/79020482 | AndroidStudio3.0 注解报错Annotation processors must be explicitly declared now. - donkor_的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Annotation+processors+must+be+explicitly+declared+now&btnK=Google+Search&oq=Annotation+processors+must+be+explicitly+declared+now | Annotation processors must be explicitly declared now - Google Search
+https://stackoverflow.com/questions/42993587/setting-explict-annotation-processor | android - Setting Explict Annotation Processor - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=IspGXJ3yOMOBoASTjJDIBg&q=%E5%A6%82%E4%BD%95%E5%8C%85%E6%8B%ACauto-value-1.5.2.jar&oq=%E5%A6%82%E4%BD%95%E5%8C%85%E6%8B%ACauto-value-1.5.2.jar&gs_l=psy-ab.3...3984.6445..6668...0.0..0.131.1160.5j6......0....1..gws-wiz.......0i13.IyLKys3xskc | 如何包括auto-value-1.5.2.jar - Google Search
+https://blog.csdn.net/u011897062/article/details/80378476 | Google AutoValue详解 - u011897062的专栏 - CSDN博客
+https://blog.csdn.net/weixin_40350174/article/details/81943490 | AndroidStudio编译出现 Could not download auto-value.jar(...):No cached version available for offline mod - weixin_40350174的博客 - CSDN博客
+https://stackoverflow.com/questions/50492329/could-not-download-auto-value-jar-com-google-auto-valueauto-value1-5-2-no-c | android - Could not download auto-value.jar (com.google.auto.value:auto-value:1.5.2): No cached version available for offline mode - Stack Overflow
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=annotationProcessor+%E8%AF%AD%E6%B3%95&btnK=Google+Search&oq=annotationProcessor+%E8%AF%AD%E6%B3%95 | annotationProcessor 语法 - Google Search
+https://blog.csdn.net/niubitianping/article/details/62216503 | Android AutoValue使用和扩展库 - SkyHand - CSDN博客
+http://w3.huawei.com/next/indexa.html | Welcome to W3 Workplace
+http://3ms.huawei.com/doc3ms/unionSearch/unionSearch.do?method=doSearch&appID=&appname=&nodename=&searchtext=auto+value+1.5.2&doctype=&nodename2=&deployEntironment=&appNumber=A18091185&userw3count=d84118463&userid=469877671&isearch_x=590AD1C0122D52EECCE3AF4CDE7FA0A3432470E30A788C8C975D4325EA2F9C3AF910BABD0DCBAD0F&imssRv4=imss-enter&channelSearchContent=auto+value+1.5.2&appID=all | HI Search
+http://3ms.huawei.com/km/blogs/details/5688105 | Android Studio安装小指南 - 康伟的博客
+http://3ms.huawei.com/km/blogs/details/2466935 | gradle 踩过的坑 - 张中文的博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%E5%A6%82%E4%BD%95%E7%94%A8build.gradle%E5%AF%BC%E5%85%A5%E5%B7%B2%E6%9C%89%E7%9A%84%E5%8C%85&btnK=Google+Search&oq=%E5%A6%82%E4%BD%95%E7%94%A8build.gradle%E5%AF%BC%E5%85%A5%E5%B7%B2%E6%9C%89%E7%9A%84%E5%8C%85 | 如何用build.gradle导入已有的包 - Google Search
+http://wiki.jikexueyuan.com/project/android-studio-guide/gradle-command-and-import-third-library.html | Gradle 命令详解与导入第三方包 - Android Studio 操作手册 - 极客学院Wiki
+https://blog.csdn.net/qq_20369621/article/details/59538390 | 如何通过gradle来导入jar包 - qq_20369621的博客 - CSDN博客
+https://blog.csdn.net/growing_tree/article/details/51979706 | Android Studio 使用Gradle引入第三方库文件的总结 - 滴水穿石，点石为金 - CSDN博客
+https://www.jianshu.com/p/12f6237ae959 | Android依赖导入全攻略 - 简书
+https://blog.csdn.net/yinghualuo000/article/details/75757933 | Android.mk介绍 - yinghualuo000的专栏 - CSDN博客
+https://developer.android.com/ndk/guides/android_mk | Android.mk  |  Android NDK  |  Android Developers
+https://developer.android.com/studio/build/dependencies?utm_source=android-studio#annotation_processor | Add build dependencies  |  Android Developers
+https://www.google.com/search?newwindow=1&ei=OuZGXLyuDZL_wAOThIXIDw&q=android+%E5%A6%82%E4%BD%95%E6%B3%A8%E9%87%8A%E6%8E%89auto-value.jar+%E7%9A%84%E4%BE%9D%E8%B5%96&oq=android+%E5%A6%82%E4%BD%95%E6%B3%A8%E9%87%8A%E6%8E%89auto-value.jar+%E7%9A%84%E4%BE%9D%E8%B5%96&gs_l=psy-ab.3...10613.10613..10933...0.0..0.78.78.1......0....1..gws-wiz.......0i71.Ba9uZFuA5Fc | android 如何注释掉auto-value.jar 的依赖 - Google Search
+https://blog.csdn.net/blackei/article/details/82971594 | Could not download auto-value.jar (com.google.auto.value:auto-value:1.5.2): No cached version availa - blackei的博客 - CSDN博客
+https://blog.csdn.net/niubitianping/article/details/62216503 | Android AutoValue使用和扩展库 - SkyHand - CSDN博客
+https://blog.csdn.net/u011897062/article/details/80378476 | Google AutoValue详解 - u011897062的专栏 - CSDN博客
+https://stackoverflow.com/questions/50492329/could-not-download-auto-value-jar-com-google-auto-valueauto-value1-5-2-no-c | android - Could not download auto-value.jar (com.google.auto.value:auto-value:1.5.2): No cached version available for offline mode - Stack Overflow
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=auto-value-annotations-1.5.2.jar&btnK=Google+Search&oq=auto-value-annotations-1.5.2.jar | auto-value-annotations-1.5.2.jar - Google Search
+https://github.com/google/auto/blob/master/value/userguide/index.md | auto/index.md at master · google/auto
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=auto-value-1.5.2.jar&btnK=Google+Search&oq=auto-value-1.5.2.jar | auto-value-1.5.2.jar - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=set+android.defaultConfig.javaCompileOptions.annotationProcessorOptions.includeCompileClasspath+%3D+true&btnK=Google+Search&oq=set+android.defaultConfig.javaCompileOptions.annotationProcessorOptions.includeCompileClasspath+%3D+true | set android.defaultConfig.javaCompileOptions.annotationProcessorOptions.includeCompileClasspath = true - Google Search
+https://github.com/JakeWharton/butterknife/issues/908 | android studio 2.4 does not suppot annotationProcessor? · Issue #908 · JakeWharton/butterknife
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=org.gradle.api.tasks.TaskExecutionException%3A+Execution+failed+for+task+%27%3Aapp%3AgenerateJsonModelDebug%27.&btnK=Google+Search&oq=org.gradle.api.tasks.TaskExecutionException%3A+Execution+failed+for+task+%27%3Aapp%3AgenerateJsonModelDebug%27. | org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:generateJsonModelDebug'. - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=CMAKE_MAKE_PROGRAM+is+not+set.+You+probably+need+to+select+a+different+build+tool.&btnK=Google+Search&oq=CMAKE_MAKE_PROGRAM+is+not+set.+You+probably+need+to+select+a+different+build+tool. | CMAKE_MAKE_PROGRAM is not set. You probably need to select a different build tool. - Google Search
+https://stackoverflow.com/questions/6141608/cmake-make-program-not-found | makefile - CMAKE_MAKE_PROGRAM not found - Stack Overflow
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=make+cmake+%E5%8C%BA%E5%88%AB&btnK=Google+Search&oq=make+cmake+%E5%8C%BA%E5%88%AB | make cmake 区别 - Google Search
+https://www.zhihu.com/question/27455963 | make makefile cmake qmake都是什么，有什么区别？ - 知乎
+https://blog.csdn.net/android_ruben/article/details/51698498 | CMake和Make之间的区别 - Forgive Me - CSDN博客
+https://blog.csdn.net/FX677588/article/details/53159019 | Linux下gcc/g++、make和cmake的区别 - 无鞋童鞋的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Execution+failed+for+task+%27%3Aapp%3AgenerateJsonModelDebug%27.+%3E+com.android.ide.common.process.ProcessException%3A+Error+configuring&btnK=Google+Search&oq=Execution+failed+for+task+%27%3Aapp%3AgenerateJsonModelDebug%27.+%3E+com.android.ide.common.process.ProcessException%3A+Error+configuring | Execution failed for task ':app:generateJsonModelDebug'. > com.android.ide.common.process.ProcessException: Error configuring - Google Search
+https://segmentfault.com/q/1010000017958470 | android-studio - android新项目导入后进行编译出现cmake错误 - SegmentFault 思否
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%E5%AE%89%E8%A3%85ninja&btnK=Google+Search&oq=%E5%AE%89%E8%A3%85ninja | 安装ninja - Google Search
+https://blog.csdn.net/darren2015zdc/article/details/74504917 | windows 安装ninja - darren2015zdc的博客 - CSDN博客
+https://github.com/ninja-build/ninja/releases | Releases · ninja-build/ninja
+https://github.com/ninja-build/ninja/blob/master/HACKING.md | ninja/HACKING.md at master · ninja-build/ninja
+https://stackoverflow.com/questions/29766830/execution-failed-for-task-appcompiledebugaidl-aidl-is-missing | android - Execution failed for task ':app:compileDebugAidl': aidl is missing - Stack Overflow
