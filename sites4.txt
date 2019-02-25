@@ -1,0 +1,268 @@
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Bayer%E5%9B%BE%E5%83%8F&btnK=Google+Search&oq=Bayer%E5%9B%BE%E5%83%8F | Bayer图像 - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=ISP+%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B%E3%80%81&btnK=Google+Search&oq=ISP+%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B%E3%80%81 | ISP 图像处理流程、 - Google Search
+https://www.zhihu.com/question/21638342 | ISP(Image Signal Processor) 图像处理器的用途和工作原理？ - 知乎
+https://blog.csdn.net/TopicDev/article/details/18727311 | （ISP）图像信号处理器的相关知识 - TopicDev的专栏 - CSDN博客
+http://camera.geek-docs.com/camera-isp/camera-isp-flow-intro.html | Camera ISP图像处理流程|Camera
+https://github.com/mahyarnajibi/SSH | mahyarnajibi/SSH: SSH: Single Stage Headless Face Detector
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=undefined+symbol%3A+PyFPE_jbuf&btnK=Google+Search&oq=undefined+symbol%3A+PyFPE_jbuf | undefined symbol: PyFPE_jbuf - Google Search
+https://login.huawei.com/login/forwardLogin.do?redirect=http%3A%2F%2Fw3.huawei.com%2Fsearch%2Fsearch.do%3Ftag%3Dall%26type%3Dnext%26lc%3Dcn%26keyWords%3DPhotoshop#NewKeyWords=Photoshop | Login @ Huawei
+https://login.huawei.com/login/?redirect=http%3A%2F%2F3ms.huawei.com%2Fhi%2Fgroup%2F1004419%2Fthread_7120557.html%3FmapId%3D8866709 | Login @ Huawei
+
+https://zhuanlan.zhihu.com/p/37478644 | 让你的代码更Prettier！代码风格统一终极方案！ - 知乎
+https://github.com/weiliu89/caffe/tree/ssd | weiliu89/caffe at ssd
+http://ethereon.github.io/netscope/#/editor | Netscope
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=solver.prototxt%E7%9A%84%E5%86%99%E6%B3%95&btnK=Google+Search&oq=solver.prototxt%E7%9A%84%E5%86%99%E6%B3%95 | solver.prototxt的写法 - Google Search
+https://www.cnblogs.com/denny402/p/5074049.html
+https://github.com/search?q=emd+loss+caffe&type=Code | Search · emd loss caffe
+https://www.google.com/search?newwindow=1&ei=XVZSXIDcEIiYsAX_yZ7gCw&q=softmax+layer+caffe&oq=softmax+layer+caffe&gs_l=psy-ab.3..0j0i22i30l5j0i22i10i30.1221.1813..2069...0.0..0.287.1421.2-5......0....1..gws-wiz.......0i71j0i67.dO2O66sj-bQ | softmax layer caffe - Google Search
+http://caffe.berkeleyvision.org/tutorial/layers/softmaxwithloss.html | Caffe | Softmax with Loss Layer
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=cambricon%E6%96%87%E4%BB%B6&btnK=Google+Search&oq=cambricon%E6%96%87%E4%BB%B6 | cambricon文件 - Google Search
+https://zhuanlan.zhihu.com/p/23255679 | 寒武纪——一个神经网络指令集架构（翻译） - 知乎
+https://blog.csdn.net/evolone/article/details/82594264 | AI芯片：寒武纪Cambricon-X结构分析 - evolone的专栏 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%E4%BB%A3%E7%A0%81%E7%BC%A9%E8%BF%9B+%E7%A9%BA%E6%A0%BC+tab+%E8%BD%AC%E6%8D%A2&btnK=Google+Search&oq=%E4%BB%A3%E7%A0%81%E7%BC%A9%E8%BF%9B+%E7%A9%BA%E6%A0%BC+tab+%E8%BD%AC%E6%8D%A2 | 代码缩进 空格 tab 转换 - Google Search
+https://www.google.com/search?newwindow=1&ei=MW5SXJ7PDYjytAXOz5uYAQ&q=notepad%2B%2B++%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2%E4%B8%A4%E6%A0%BC%E7%BC%A9%E8%BF%9B%E4%B8%BA%E5%9B%9B%E6%A0%BC&oq=notepad%2B%2B++%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2%E4%B8%A4%E6%A0%BC%E7%BC%A9%E8%BF%9B%E4%B8%BA%E5%9B%9B%E6%A0%BC&gs_l=psy-ab.3...2369.4638..4748...0.0..0.281.557.2-2......0....1..gws-wiz.......0i71.rEQqoWv4LzM | notepad++ 批量替换两格缩进为四格 - Google Search
+https://www.zhihu.com/question/21496458 | 写python代码时怎么快速的给大量代码加上缩进？ - 知乎
+https://blog.csdn.net/Cashey1991/article/details/6766261 | 在notepad++中 “tab转为空格”、“按tab插入空格”、“文档格式转换” - Cashey1991的专栏 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=squeeze+net&btnK=Google+Search&oq=squeeze+net | squeeze net - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=TensorFlow+nets&btnK=Google+Search&oq=TensorFlow+nets | TensorFlow nets - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=mobilenet+%E8%A7%A3%E6%9E%90&btnK=Google+Search&oq=mobilenet+%E8%A7%A3%E6%9E%90 | mobilenet 解析 - Google Search
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%E4%B9%98%E7%B4%AF%E5%8A%A0%E8%BF%90%E7%AE%97&btnK=Google+Search&oq=%E4%B9%98%E7%B4%AF%E5%8A%A0%E8%BF%90%E7%AE%97 | 乘累加运算 - Google Search
+https://zh.wikipedia.org/wiki/%E4%B9%98%E7%A9%8D%E7%B4%AF%E5%8A%A0%E9%81%8B%E7%AE%97 | 乘积累加运算 - 维基百科，自由的百科全书
+https://www.cnblogs.com/sddai/p/10335893.html | CUDA_ERROR_OUT_OF_MEMORY - stardsd - 博客园
+https://github.com/amir-abdi/keras_to_tensorflow | amir-abdi/keras_to_tensorflow: General code to convert a trained keras model into an inference tensorflow model
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=keras+output+node+names&btnK=Google+Search&oq=keras+output+node+names | keras output node names - Google Search
+https://stackoverflow.com/questions/40028175/how-do-you-get-the-name-of-the-tensorflow-output-nodes-in-a-keras-model | python - How do you get the name of the tensorflow output nodes in a Keras Model? - Stack Overflow
+https://www.bejson.com/jsonviewernew/ | JSON在线视图查看器(Online JSON Viewer)
+https://www.google.com/search?newwindow=1&ei=x-BSXLCGK8fc5gLNy7fYCg&q=keras+%E8%BE%93%E5%87%BA+%E5%B1%82%E5%90%8D%E7%A7%B0&oq=keras+%E8%BE%93%E5%87%BA+%E5%B1%82%E5%90%8D%E7%A7%B0&gs_l=psy-ab.3...61834.64298..64490...0.0..0.325.648.3-2......0....1..gws-wiz.......0i71.4b1F1V0Qeqo | keras 输出 层名称 - Google Search
+https://keras.io/zh/layers/core/ | 核心网络层 - Keras 中文文档
+https://blog.csdn.net/wuyuefei3/article/details/80812006 | keras—如何获得中间层的输出？？？ - 我乐飞的技术博客 - CSDN博客
+http://www.voidcn.com/article/p-bagefocb-bsb.html | keras获得某一层或者某层权重的输出 - 程序园
+https://blog.csdn.net/WY19901990/article/details/81506180 | 如何给keras层命名，并提取中间层输出值，保存到文档 - 龙猫 - CSDN博客
+http://ethereon.github.io/netscope/#/editor | Netscope
+http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html | Docker 入门教程 - 阮一峰的网络日志
+http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html | Docker 微服务教程 - 阮一峰的网络日志
+http://ilearning.huawei.com/edx/next/#/search/all?q=docker | 搜索 | Huawei iLearning
+http://ethereon.github.io/netscope/#/editor | Netscope
+
+https://hwid1.vmall.com/CAS/portal/login.html?validated=true&themeName=red&service=https%3A%2F%2Fwww.vmall.com%2Faccount%2Fcaslogin%3Furl%3D%252Fmember%252Fenterprise%253FshowListId%253D4%2526categoryId%253D9%2526priceRange%253D4%2526p%253D1&loginChannel=26000000&reqClientType=26&lang=zh-cn | 登录
+https://www.google.com/search?newwindow=1&ei=ZillXLDIGcyQtQW7uJ7IDA&q=sensor+data+image+quality+assessment&oq=sensor+data+image+quality+assess&gs_l=psy-ab.3.0.33i299l3.14192021.14198966..14200708...0.0..0.365.2182.2-3j4......0....1..gws-wiz.......0i71j33i22i29i30.ZsUEZnvK3zA | sensor data image quality assessment - Google Search
+https://scholar.google.com/scholar?q=sensor+data+image+quality+assessment&hl=en&as_sdt=0&as_vis=1&oi=scholart
+http://biblio.telecom-paristech.fr/cgi-bin/download.cgi?id=15761
+https://www.google.com/search?newwindow=1&ei=bhpmXKnDGcXD0PEPwteIkAk&q=exposure+time+++gyro+sensor+data++image+quality&oq=exposure+time+++gyro+sensor+data++image+quality&gs_l=psy-ab.3..33i299l2.15744.22832..23390...0.0..0.480.6466.2-1j15j2......0....2j1..gws-wiz.......0i71j33i160.MburkkuvBYo
+http://tech.163.com/18/0408/10/DES7A89N00099504_mobile.html
+http://graphics.stanford.edu/papers/gyrodeblur/gyrodeblur_park_cvpr14.pdf
+https://users.isy.liu.se/cvl/perfo/papers/hanning_iwmv11.pdf
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=sensor+data+from+the+gyroscope+and+OIS&btnK=Google+Search&oq=sensor+data+from+the+gyroscope+and+OIS
+https://arxiv.org/pdf/1702.00824.pdf
+https://blog.csdn.net/xuluohongshang/article/details/79000951
+http://graphics.stanford.edu/papers/gyrodeblur/gyrodeblur_park_cvpr14.pdf | gyrodeblur_park_cvpr14.pdf
+http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_9.pdf
+https://arxiv.org/ftp/arxiv/papers/1805/1805.07020.pdf
+https://arxiv.org/pdf/1805.03368.pdf
+http://222.161.207.51:8000/ | 222.161.207.51
+http://222.161.207.51:8000/rewriter/CNKIBK/http/jmr9bmjh9mds/kns/brief/default_result.aspx | 222.161.207.51
+https://translate.google.com/?hl=zh-CN#view=home&op=translate&sl=auto&tl=zh-CN&text=Patch%20based%20image%20modeling%20has%20achieved%20a%20great%20successin%20low%20level%20vision%20such%20as%20image%20denoising.%20In%20particular%2Cthe%20use%20of%20image%20nonlocal%20self-similarity%20(NSS)%20prior%2Cwhich%20refers%20to%20the%20fact%20that%20a%20local%20patch%20often%20has%20manynonlocal%20similar%20patches%20to%20it%20across%20the%20image%2C%20has%20significantlyenhanced%20the%20denoising%20performance.%20However%2C%20inmost%20existing%20methods%20only%20the%20NSS%20of%20input%20degraded%20imageis%20exploited%2C%20while%20how%20to%20utilize%20the%20NSS%20of%20clean%20naturalimages%20is%20still%20an%20open%20problem.%20In%20this%20paper%2C%20we%20proposea%20patch%20group%20(PG)%20based%20NSS%20prior%20learning%20schemeto%20learn%20explicit%20NSS%20models%20from%20natural%20images%20for%20highperformance%20denoising.%20PGs%20are%20extracted%20from%20trainingimages%20by%20putting%20nonlocal%20similar%20patches%20into%20groups%2C%20anda%20PG%20based%20Gaussian%20Mixture%20Model%20(PG-GMM)%20learningalgorithm%20is%20developed%20to%20learn%20the%20NSS%20prior.%20We%20demonstratethat%2C%20owe%20to%20the%20learned%20PG-GMM%2C%20a%20simple%20weightedsparse%20coding%20model%2C%20which%20has%20a%20closed-form%20solution%2C%20canbe%20used%20to%20perform%20image%20denoising%20effectively%2C%20resulting%20inhigh%20PSNR%20measure%2C%20fast%20speed%2C%20and%20particularly%20the%20bestvisual%20quality%20among%20all%20competing%20methods.
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%E7%9B%B8%E6%9C%BA+%E8%87%AA%E5%8A%A8%E6%9B%9D%E5%85%89%E6%95%B0%E6%8D%AE&btnK=Google+Search&oq=%E7%9B%B8%E6%9C%BA+%E8%87%AA%E5%8A%A8%E6%9B%9D%E5%85%89%E6%95%B0%E6%8D%AE
+https://blog.csdn.net/qq_27606639/article/details/80866021
+https://blog.csdn.net/qq_20848403/article/details/81197732
+https://blog.csdn.net/u011776903/article/details/78783975
+https://www.zhihu.com/question/21427664
+https://github.com/sddai/youtube-bb
+https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+solve.prototxt%E8%A7%A3%E6%9E%90&btnK=Google+Search&oq=caffe+solve.prototxt%E8%A7%A3%E6%9E%90
+https://blog.csdn.net/huangfei711/article/details/80720070
+https://blog.csdn.net/s151506879/article/details/52135638
+https://www.cnblogs.com/denny402/p/5074049.html
+http://www.voidcn.com/article/p-bugbkpmz-bmt.html
+http://www.voidcn.com/article/p-hpzfyljd-vn.html
+https://blog.csdn.net/dcrmg/article/details/82317181
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html
+https://www.sohu.com/a/164766614_473283
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Google+Vizier&btnK=Google+Search&oq=Google+Vizier
+https://ai.google/research/pubs/pub46180
+https://github.com/tobegit3hub/advisor
+https://zhuanlan.zhihu.com/p/29779000
+https://www.google.com/search?newwindow=1&ei=QK1uXJvPL4ikmAW9y6jYBA&q=auto+exposure+auto+focus+auto+white+balance++image+quality&oq=auto+exposure+auto+focus+auto+white+balance++image+quality&gs_l=psy-ab.3...70780.83580..84347...0.0..0.109.2036.18j4......0....1..gws-wiz.......33i160j33i21j33i10.RAzKU35IPWU
+https://source.android.com/devices/camera/camera3_3Amodes | 3A 模式和状态转换  |  Android Open Source Project
+https://patents.google.com/patent/EP0446647B1/ko
+https://dspace.cc.tut.fi/dpub/bitstream/handle/123456789/23917/baslamisli.pdf?sequence=1
+https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html
+https://developer.ridgerun.com/wiki/index.php/RidgeRun_Auto_exposure/Auto_white_balance_library_for_DM368_and_DM365
+https://source.android.com/devices/camera/camera3_3Amodes | 3A 模式和状态转换  |  Android Open Source Project
+https://www.semanticscholar.org/paper/System-implications-of-implementing-auto-exposure-Kremens-Sampat/e9001efe2cfcac49aa0dcae9edf67446ddcdcc22
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+test_interval&btnK=Google+Search&oq=caffe+test_interval
+https://www.reddit.com/r/MachineLearning/comments/47097y/caffe_understanding_of_test_iter_confused/
+https://blog.csdn.net/liu1152239/article/details/81478313
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=slice+concat+%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F%E4%B8%8D%E4%B8%80%E6%A0%B7&btnK=Google+Search&oq=slice+concat+%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F%E4%B8%8D%E4%B8%80%E6%A0%B7
+https://blog.csdn.net/shuzfan/article/details/54565776
+http://www.caffecn.cn/?/question/624
+https://blog.csdn.net/u012426298/article/details/80743284
+http://ethereon.github.io/netscope/#/editor
+http://ethereon.github.io/netscope/#/editor | Netscope
+https://www.google.com/search?newwindow=1&ei=EQBxXJ_SFMTfmAWO6LPQCQ&q=gam++model++github&oq=gam++model++github&gs_l=psy-ab.3...5678.8395..8828...0.0..0.95.699.8......0....1..gws-wiz.......0i71j0j0i67j33i160j33i21.C5T4T3fsCSw
+https://github.com/sddai/pyGAM
+https://blog.csdn.net/textboy/article/details/47277131 | GAM（广义相加模型）概要及R程序实现 - textboy的专栏 - CSDN博客
+https://blog.csdn.net/tongweiganglp/article/details/53422324
+http://zzanswer.github.io/2016/08/28/R%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%B9%BF%E4%B9%89%E5%8A%A0%E6%80%A7%E6%A8%A1%E5%9E%8B%EF%BC%88GAM%EF%BC%89/
+https://zhuanlan.zhihu.com/p/29779000 | 贝叶斯优化: 一种更好的超参数调优方式 - 知乎
+
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=android+ndk+%E6%95%99%E7%A8%8B&btnK=Google+Search&oq=android+ndk+%E6%95%99%E7%A8%8B | android ndk 教程 - Google Search
+https://blog.csdn.net/yanbober/article/details/45309049 | NDK-JNI实战教程（一） 在Android Studio运行第一个NDK程序 - 工匠若水 - CSDN博客
+http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/overview.html | 概述 - Android NDK 开发教程 - 极客学院Wiki
+https://zhuanlan.zhihu.com/p/32754019 | Source Insight 4.0用户指南 - 知乎
+https://wenku.baidu.com/view/86bda63887c24028915fc33e.html | Source Insight教程及技巧（大全） - 最终整合版 - 图文 - 百度文库
+https://jingyan.baidu.com/article/fec4bce29dbb3bf2618d8bbc.html | Source Insight使用方法简介_百度经验
+https://www.google.com/search?newwindow=1&ei=qM1HXOuwI9KIoAS1qrPwBQ&q=NIMA++%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0&oq=NIMA++%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0&gs_l=psy-ab.3...16153.20010..20360...1.0..0.128.1331.8j6......0....1..gws-wiz.......0i71j0i67j0j0i13j0i13i10j33i160.lZdbEQM5kLA | NIMA 深度学习 - Google Search
+http://www.sohu.com/a/211402983_610300 | 谷歌提出深度CNN模型NIMA：帮你挑选清晰且有美感的图片
+https://www.google.com/search?newwindow=1&lei=eNBHXOCHLMbM-Qbi6InACw&q=nima%20paper&ved=2ahUKEwiciajn7ILgAhVQPHAKHbmcB1AQsKwBKAB6BAgAEAE&biw=1536&bih=775 | nima paper - Google Search
+https://scholar.google.com.sg/scholar?q=Learned+Perceptual+Image+Enhancement&hl=en&as_sdt=0&as_vis=1&oi=scholart | Learned Perceptual Image Enhancement - Google Scholar
+https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html | Google AI Blog: Introducing NIMA: Neural Image Assessment
+https://ai.googleblog.com/2017/07/using-deep-learning-to-create.html | Google AI Blog: Using Deep Learning to Create Professional-Level Photographs
+https://scholar.google.com.sg/scholar?q=NIMA:+Neural+Image+Assessment&hl=en&as_sdt=0&as_vis=1&oi=scholart | NIMA: Neural Image Assessment - Google Scholar
+https://zhuanlan.zhihu.com/p/28304158 | 论文笔记：Creatism: A deep-learning photographer capable of creating professional work - 知乎
+https://arxiv.org/pdf/1712.02864.pdf | 1712.02864.pdf
+https://arxiv.org/pdf/1707.03491.pdf | 1707.03491.pdf
+https://github.com/titu1994/neural-image-assessment | titu1994/neural-image-assessment: Implementation of NIMA: Neural Image Assessment in Keras
+https://github.com/titu1994/neural-image-assessment/issues/51 | Can't instantiate abstract class DatasetV1 with abstract methods _as_variant_tensor, _inputs · Issue #51 · titu1994/neural-image-assessment
+https://github.com/titu1994/neural-image-assessment/issues/50 | I've computed histograms of the ground truth and predicted scores · Issue #50 · titu1994/neural-image-assessment
+https://github.com/kentsyx/Neural-IMage-Assessment | kentsyx/Neural-IMage-Assessment: A PyTorch Implementation of Neural IMage Assessment
+http://refbase.cvc.uab.es/files/MMP2012a.pdf | Untitled
+https://www.google.com/search?newwindow=1&ei=a99HXLfYApXdrQGwro_wBA&q=AVA+dataset++%E4%B8%8B%E8%BD%BD&oq=AVA+dataset++%E4%B8%8B%E8%BD%BD&gs_l=psy-ab.3..0.165610.167420..167594...0.0..0.216.1026.1j6j1......0....1..gws-wiz.......0i71j0i67j0i22i30j33i160j33i21.lWvAJXNX66s | AVA dataset 下载 - Google Search
+https://github.com/mtobeiyf/ava_downloader | mtobeiyf/ava_downloader: Script to download AVA database from the website (A Large-Scale Database for Aesthetic Visual Analysis)
+https://github.com/topics/neural-image-assessment | Topic: neural-image-assessment
+https://github.com/etosworld/etos-image-assessment | etosworld/etos-image-assessment: Neural Image Assessment, for ETOS Ecosystem. A tool to automatically inspect quality of images.
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=head+pose+estimation&btnK=Google+Search&oq=head+pose+estimation | head pose estimation - Google Search
+https://cloud.tencent.com/developer/article/1086781
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=nasnet&btnK=Google+Search&oq=nasnet | nasnet - Google Search
+https://arxiv.org/pdf/1707.07012.pdf | 1707.07012.pdf
+https://www.google.com/search?newwindow=1&ei=m05IXKqvMIWQvQSRlKPICQ&q=CUDA9.0+%E6%94%AF%E6%8C%81%E7%9A%84%E9%A9%B1%E5%8A%A8%E7%89%88%E6%9C%AC&oq=CUDA9.0+%E6%94%AF%E6%8C%81%E7%9A%84%E9%A9%B1%E5%8A%A8%E7%89%88%E6%9C%AC&gs_l=psy-ab.3...358588.365694..365962...1.0..0.154.3097.1j25......0....1..gws-wiz.......0i71j0j0i10j0i13i30j0i8i13i30j33i160.k5bC9yKgwRo | CUDA9.0 支持的驱动版本 - Google Search
+https://blog.csdn.net/hhy_csdn/article/details/64440406 | 深度学习之CUDA——翻译NVIDIA CUDA Installation Guide for Linux (1) - hhy_csdn的博客 - CSDN博客
+https://blog.csdn.net/csdn_zhishui/article/details/84635917 | 【笔记】Ubuntu18.04安装nVIDIA显卡驱动+cuda9.0+cuDNN7+TensorFlow GPU - csdn_zhishui的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=dFBIXKLwA4uDvQSep7qQAg&q=%E6%9F%A5%E7%9C%8Bcudnn%E7%89%88%E6%9C%AC&oq=%E6%9F%A5%E7%9C%8Bcudnn&gs_l=psy-ab.3.0.0l5.863936.867502..869643...0.0..0.151.1400.0j12......0....1..gws-wiz.......0i71j0i67j0i131j0i12j0i10.URUSLt6SuPQ | 查看cudnn版本 - Google Search
+https://blog.csdn.net/zhangjunhit/article/details/76532196 | 查看 CUDA cudnn 版本 - AI小作坊 的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=GVdIXKrxBsynoATm3aLoBA&q=pip+xiezai+&oq=pip+xiezai+&gs_l=psy-ab.3..0i22i30.2050.3650..3874...0.0..0.105.704.7j1......0....1..gws-wiz.......0i71j0i67j0j0i22i10i30j0i8i13i30j0i13.w6EHcwq4g6M | pip xiezai - Google Search
+https://blog.csdn.net/Winterto1990/article/details/47455405 | pip的安装，更新，卸载模块以及使用方法 python - Winterto1990的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=OSError%3A+cannot+identify+image+file+Path&btnK=Google+Search&oq=OSError%3A+cannot+identify+image+file+Path | OSError: cannot identify image file Path - Google Search
+https://github.com/python-pillow/Pillow/issues/2628 | [4.2+ issue] OSError: cannot identify image file <ImageFieldFile: images/40_3ez0uO3> · Issue #2628 · python-pillow/Pillow
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=OSError%3A%20cannot%20identify%20image%20file%20Path&rsv_pq=c2cb2caf000769f6&rsv_t=a77crsHN45XtrcdZ%2F2dfQpS%2B6ltqGxEMCPXCUa91uz8E%2FgpaxnCLszL%2BCVw&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug2=0&inputT=961&rsv_sug4=961 | OSError: cannot identify image file Path_百度搜索
+https://blog.csdn.net/pursuit_zhangyu/article/details/80190707 | OSError: cannot identify image file - pursuit_zhangyu的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=TAMPERE+IMAGE+DATABASE+2013+TID2013&btnK=Google+Search&oq=TAMPERE+IMAGE+DATABASE+2013+TID2013 | TAMPERE IMAGE DATABASE 2013 TID2013 - Google Search
+https://www.google.com/search?newwindow=1&q=Spearman+and+Kendall+rank+correlation&spell=1&sa=X&ved=0ahUKEwiC3fbyxIXgAhVL-qwKHfDTDmsQBQgpKAA&biw=1536&bih=775 | Spearman and Kendall rank correlation - Google Search
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=Spearman%20and%20Kendall%20rank%20correlation&rsv_pq=a1efb63b0007167a&rsv_t=5ed8SwjNGX0E9LwkPc1wuuyyIjIQP3YkRbCREv5rrEFg1eqO4uIjB%2FB7Iqo&rqlang=cn&rsv_enter=0&rsv_sug3=1
+https://blog.csdn.net/xiangyong58/article/details/51189499 | Spearman's rank correlation coefficient 和 Pearson correlation coefficient详细 - xiangyong58的专栏 - CSDN博客
+http://blog.sciencenet.cn/blog-1148346-895456.html | 科学网—[转载]Matlab: Spearman & Kendall Correlation Coefficient - 李旭的博文
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient
+https://wiki.mbalib.com/wiki/Kendall%E7%AD%89%E7%BA%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0
+https://www.google.com/search?newwindow=1&ei=UINOXOCUA82isAX7uK-QBg&q=SSIM%E7%AE%97%E6%B3%95&oq=SSIM%E7%AE%97%E6%B3%95&gs_l=psy-ab.3..0.2977.2977..3969...0.0..0.272.272.2-1......0....1..gws-wiz.......0i71.DdnQ4TZpqnA | SSIM算法 - Google Search
+https://www.google.com/search?newwindow=1&ei=fZ1OXImgDJGvggfk57jIDQ&q=IQA+image&oq=IQA+image&gs_l=psy-ab.3..0j0i22i30l2.2377.4122..4601...0.0..0.323.1917.3-6......0....1..gws-wiz.......0i71j0i67.EoUDPCZnZyo | IQA image - Google Search
+https://arxiv.org/abs/1804.01681 | [1804.01681] Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning
+https://github.com/idealo/image-quality-assessment | idealo/image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=python+%E6%8A%8A%E8%BE%93%E5%87%BA%E5%8F%98%E9%87%8F%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6&btnK=Google+Search&oq=python+%E6%8A%8A%E8%BE%93%E5%87%BA%E5%8F%98%E9%87%8F%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6 | python 把输出变量写入文件 - Google Search
+https://blog.csdn.net/xiaotao_1/article/details/80726821 | python把变量写入txt文件。 - xiaotao_1的博客 - CSDN博客
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=pandas+%E8%AF%BB%E5%85%A5%E6%96%87%E4%BB%B6+%E6%98%BE%E7%A4%BAhead&btnK=Google+Search&oq=pandas+%E8%AF%BB%E5%85%A5%E6%96%87%E4%BB%B6+%E6%98%BE%E7%A4%BAhead | pandas 读入文件 显示head - Google Search
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Ubuntu+%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E6%97%B6%E5%8C%BA&btnK=Google+Search&oq=Ubuntu+%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E6%97%B6%E5%8C%BA | Ubuntu 修改系统时区 - Google Search
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=OSError%3A+image+file+is+truncated+(61+bytes+not+processed)&btnK=Google+Search&oq=OSError%3A+image+file+is+truncated+(61+bytes+not+processed) | OSError: image file is truncated (61 bytes not processed) - Google Search
+https://github.com/explore | Explore
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=python+%E6%8B%BC%E6%8E%A5%E4%B8%A4%E4%B8%AA%E6%96%87%E4%BB%B6&btnK=Google+Search&oq=python+%E6%8B%BC%E6%8E%A5%E4%B8%A4%E4%B8%AA%E6%96%87%E4%BB%B6 | python 拼接两个文件 - Google Search
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=ubuntu+%E6%96%87%E4%BB%B6%E6%8C%89%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F&btnK=Google+Search&oq=ubuntu+%E6%96%87%E4%BB%B6%E6%8C%89%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F | ubuntu 文件按时间排序 - Google Search
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=hdrnet&btnK=Google+Search&oq=hdrnet | hdrnet - Google Search
+https://github.com/google/hdrnet | google/hdrnet: An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement', SIGGRAPH 2017
+https://www.google.com/search?newwindow=1&ei=BhxQXLurEYqvjwSfg63AAg&q=tensorflow+hdf5%E8%BD%ACpb&oq=tensorflow+hdf5%E8%BD%ACpb&gs_l=psy-ab.3...351587.357775..358465...0.0..0.646.3944.2-5j6j0j1......0....1..gws-wiz.......0i71.iPXl-DSnImU | tensorflow hdf5转pb - Google Search
+https://zhuanlan.zhihu.com/p/32832057 | keras训练生成的h5文件转换为tensorflow支持的pb文件方法 - 知乎
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=ValueError%3A+Cannot+create+group+in+read+only+mode.&btnK=Google+Search&oq=ValueError%3A+Cannot+create+group+in+read+only+mode. | ValueError: Cannot create group in read only mode. - Google Search
+https://stackoverflow.com/questions/53212672/read-only-mode-in-keras | python - Read only mode in keras - Stack Overflow
+https://github.com/keras-team/keras/issues/6937 | Unable to load model from .h5 file · Issue #6937 · keras-team/keras
+https://stackoverflow.com/questions/35074549/how-to-load-a-model-from-an-hdf5-file-in-keras | python - How to load a model from an HDF5 file in Keras? - Stack Overflow
+https://gist.github.com/kolygri/835ccea6b87089fbfd64395c3895c01f
+https://www.google.com/search?newwindow=1&ei=JCNQXJe6H4K9jgSJ2YPYBQ&q=TensorFlow+network+to+json&oq=TensorFlow+network+to+json&gs_l=psy-ab.3...70264.84168..84518...7.0..0.415.7110.2-16j6j1......0....1..gws-wiz.......0i71j0i7i30j0j0i7i10i30j0i67j0i131j0i13j0i13i10j0i8i13i30j0i30.7aAtcwWJwR8 | TensorFlow network to json - Google Search
+https://stackoverflow.com/questions/48888440/can-tensorflow-work-with-json-like-data | deep learning - Can TensorFlow work with JSON like data? - Stack Overflow
+https://github.com/tensorflow/tfjs-converter | tensorflow/tfjs-converter: Convert TensorFlow SavedModel and Keras models to TensorFlow.js
+https://www.google.com/search?newwindow=1&ei=aDJQXLqJBunm_Qbhm4yACg&q=keras+%E7%94%9F%E6%88%90pb&oq=keras+%E7%94%9F%E6%88%90pb&gs_l=psy-ab.3...431291.432300..432635...0.0..0.606.1842.2-3j1j0j1......0....1..gws-wiz.......0i71.rOwgGLAQQ3Q | keras 生成pb - Google Search
+https://www.csdn.net/ | CSDN-专业IT技术社区
+https://zhuanlan.zhihu.com/p/32887066 | TensorFlow 保存模型为 PB 文件 - 知乎
+
+http://ethereon.github.io/netscope/#/editor | Netscope
+http://ethereon.github.io/netscope/#/editor | Netscope
+http://ethereon.github.io/netscope/#/editor | Netscope
+https://blog.csdn.net/Ddreaming/article/details/53333349
+https://blog.csdn.net/liu1152239/article/details/81478313 | caffe特殊层：permute\reshape\flatten\slice\concat - 文尹习习的博客 - CSDN博客
+https://ai.googleblog.com/2018/05/automatic-photography-with-google-clips.html
+https://ai.googleblog.com/2018/12/top-shot-on-pixel-3.html
+https://www.dxomark.com/cn/dxomark-selfie-how-we-test-smartphone-front-camera-still-image-quality
+https://blog.csdn.net/u013685902/article/details/78695094
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=%2Flib%2Fx86_64-linux-gnu%2Flibz.so.1%3A+version+%60ZLIB_1.2.9%27+not+found&btnK=Google+Search&oq=%2Flib%2Fx86_64-linux-gnu%2Flibz.so.1%3A+version+%60ZLIB_1.2.9%27+not+found
+https://opencv.org/opencv-3-3.html
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Source+Insight%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C&btnK=Google+Search&oq=Source+Insight%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C
+https://www.google.com/search?newwindow=1&ei=OMxiXJzzEdGctAWH4b_YBw&q=FlatBuffers+%E8%A7%A3%E6%9E%90&oq=FlatBuffers+%E8%A7%A3%E6%9E%90&gs_l=psy-ab.3..33i160.36568.42538..42679...0.0..0.389.1910.2-3j3......0....1..gws-wiz.......0i71j0i67j0.bILksBB-itI
+https://juejin.im/post/5b39a111f265da59a4020309
+https://www.race604.com/flatbuffers-intro/
+https://github.com/google/flatbuffers
+https://www.google.com/search?newwindow=1&ei=4YtjXIDgNcfStAXwkKn4CQ&q=siamese+margin+ranking+loss+example&oq=siamese+margin+ranking+loss++&gs_l=psy-ab.1.1.33i299l3.11198771.11205458..11207650...0.0..0.312.1157.2-2j2......0....2j1..gws-wiz.......0i71j33i160.M-HCa9EIyU8
+https://www.google.com/search?newwindow=1&ei=O-xjXNa_K4LwtAWTwZq4Cg&q=siamese+network+pytorch&oq=Siamesenet&gs_l=psy-ab.3.3.0i10l10.1152.5215..8269...0.0..0.375.3093.2-10j1......0....1..gws-wiz.......0i67j0i131j0.3nhc7KlZ6tA
+https://www.cnblogs.com/king-lps/p/8342452.html
+https://github.com/xialeiliu/RankIQA/tree/master/src
+https://github.com/xialeiliu/RankIQA
+https://github.com/xialeiliu/RankIQA/issues/22
+https://github.com/xialeiliu/RankIQA/issues/20
+https://github.com/xialeiliu/RankIQA/tree/master/data
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=caffe+ImportError%3A+Import+by+filename+is+not+supported.&btnK=Google+Search&oq=caffe+ImportError%3A+Import+by+filename+is+not+supported.
+https://github.com/BVLC/caffe/issues/4869
+https://github.com/saicoco/SomeToys/tree/master/pycaffe/example_bigbang/build
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=PYTHONPATH+%E7%9A%84%E5%8E%9F%E7%90%86&btnK=Google+Search&oq=PYTHONPATH+%E7%9A%84%E5%8E%9F%E7%90%86
+https://blog.csdn.net/liweiblog/article/details/76439302
+https://wxnacy.com/2017/08/15/python-2017-08-15-config-pythonpath/
+https://blog.csdn.net/zong596568821xp/article/details/80410416
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=ImportError%3A+No+module+named+pip&btnK=Google+Search&oq=ImportError%3A+No+module+named+pip
+https://stackoverflow.com/questions/18363022/importerror-no-module-named-pip
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Job+for+dbus.service+failed+because+the+control+process+exited+with+error+code.&btnK=Google+Search&oq=Job+for+dbus.service+failed+because+the+control+process+exited+with+error+code.
+https://unix.stackexchange.com/questions/442489/fedora-27-getting-error-repeatedly-job-for-xxx-service-failed-because-the-co
+https://ai.googleblog.com/2018/12/top-shot-on-pixel-3.html | Google AI Blog: Top Shot on Pixel 3
+https://www.google.com/search?newwindow=1&ei=FnpmXOqID46jjwTlqLII&q=optical+image+stabilization&oq=optical+image+stabilization&gs_l=psy-ab.3..0i71l8.0.0..47604...0.0..0.0.0.......0......gws-wiz.fnyBbg6JGH4
+https://www.google.com/search?newwindow=1&ei=KINmXPvkF4zZjwStmZUo&q=top+shot+3A+score+&oq=top+shot+3A+score+&gs_l=psy-ab.3...18192.33840..34241...0.0..0.286.2782.2-10......0....1..gws-wiz.......0i71j0i22i30j0i8i7i30j0i8i30.ZgkQfYdHDN4
+https://ai.googleblog.com/2017/11/fused-video-stabilization-on-pixel-2.html
+https://ai.googleblog.com/2018/11/learning-to-predict-depth-on-pixel-3.html
+https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html
+https://9to5google.com/2018/12/20/google-ai-pixel-3-top-shot/
+https://hub.packtpub.com/pixel-3s-top-shot-camera-feature-uses-computer-vision-to-enable-users-to-click-the-perfect-picture/
+https://www.google.com/search?newwindow=1&ei=zYZmXPSlDYnl_Qbal6fADQ&q=multimodal+image+quality+assessment&oq=multimodal++image+quality+assess&gs_l=psy-ab.3.0.33i299l3.55924.71259..73009...4.0..0.450.7299.2-22j2j1......0....1..gws-wiz.......0i67j0j33i160j33i22i29i30.ZYtVi5Er5e0
+https://ieeexplore.ieee.org/document/7883831
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=+image+quality+assessment++multimodal&btnG=
+https://sci-hub.tw/https://link.springer.com/article/10.1007/s11042-010-0640-x
+https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/5297689/
+https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/4380297/
+https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/4341617/
+https://www.researchgate.net/publication/4278196_Quality_Assessment_of_Facial_Images
+https://www.google.com/search?newwindow=1&ei=5rJqXL7NBOeGr7wPiKKmkA4&q=%E5%A6%82%E4%BD%95%E6%A3%80%E6%9F%A5opencv%E5%AE%89%E8%A3%85%E6%AD%A3%E7%A1%AE&oq=%E5%A6%82%E4%BD%95%E6%A3%80%E6%9F%A5opencv%E5%AE%89%E8%A3%85%E6%AD%A3%E7%A1%AE&gs_l=psy-ab.3...24495.28160..28378...1.0..0.163.1902.12j7......0....1..gws-wiz.......0i71.P75oTo1Fky8
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=Failed+to+fetch+http%3A%2F%2Fmirrors.aliyun.com%2Fdocker-ce%2Flinux%2Fubuntu%2Fdists%2Fxenial%2Fpool%2Fstable%2Famd64%2Fcontainerd.io_1.2.2-3_amd64.deb+Writing+more+data+than+expected+(19871313+%3E+19870542)&btnK=Google+Search&oq=Failed+to+fetch+http%3A%2F%2Fmirrors.aliyun.com%2Fdocker-ce%2Flinux%2Fubuntu%2Fdists%2Fxenial%2Fpool%2Fstable%2Famd64%2Fcontainerd.io_1.2.2-3_amd64.deb+Writing+more+data+than+expected+(19871313+%3E+19870542)
+https://github.com/docker/for-linux/issues/290
+https://github.com/puppetlabs/puppetlabs-docker/issues/113
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=E%3A%20Failed%20to%20fetch%20http%3A%2F%2Fmirrors.aliyun.com%2Fdocker-ce%2Flinux%2Fubuntu%2Fdists%2Fxenial%2Fpool%2Fstable%2Famd64%2Fcontainerd.io_1.2.2-3_amd64.deb%20%20Writing%20more%20data%20than%20expected%20(19871313%20%3E%2019870542)&rsv_pq=eb3f53d400000d2c&rsv_t=de77dooBZzWmVYrDFOAGL9F1Lu8CnVvB4gPodRbvQKPBBIAI8q9%2BYScnYUs&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug2=0&inputT=1090&rsv_sug4=1089
+https://blog.csdn.net/ghostyusheng/article/details/80321483
+https://blog.csdn.net/feiniao8651/article/details/60332535
+https://blog.csdn.net/npy_lp/article/details/42080553
+https://www.google.com/search?newwindow=1&ei=KnFrXI2hC4mA8QWeoKbQAQ&q=squeeze+net+%E8%AF%A6%E8%A7%A3&oq=squeeze+net+%E8%AF%A6%E8%A7%A3&gs_l=psy-ab.3...6880.9736..9935...0.0..0.141.1043.5j5......0....1..gws-wiz.......0i71j0i10j0j0i22i30j0i22i10i30j33i160j33i21.1zgD_tn937I
+https://blog.csdn.net/xbinworld/article/details/50897870
+https://blog.csdn.net/shenxiaolu1984/article/details/51444525
+https://zhuanlan.zhihu.com/p/49465950
+https://www.google.com/search?newwindow=1&ei=OnZrXLypAv2Rr7wP0bWF0As&q=caffe+python++create+list&oq=caffe+python++create+list&gs_l=psy-ab.3...6049.6049..7888...0.0..0.78.78.1......0....1..gws-wiz.......0i71.c_TQn59-_JY
+https://zhuanlan.zhihu.com/p/31558773
+https://blog.csdn.net/u010417185/article/details/52119863
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=gimp%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87&btnK=Google+Search&oq=gimp%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87
+https://blog.csdn.net/lianghongge/article/details/52488046
+https://www.google.com/search?newwindow=1&ei=18lvXI2qKaW1mAWEt5KoBw&q=caffe++max_iter+&oq=caffe++max_iter+&gs_l=psy-ab.3.0.0i22i30l2.44886.44886..45015...0.0..0.78.78.1......0....1..gws-wiz.......0i71.U8ZADtnH47I
+https://zhuanlan.zhihu.com/p/48462756
+file:///Y:/%E7%AC%AC%E4%B8%80%E6%9C%ACDocker%E4%B9%A6%20%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88.pdf | file:///Y:/第一本Docker书%20高清完整版.pdf
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=SSH%3A+Single+Stage+Headless+Face+Detecto&btnK=Google+Search&oq=SSH%3A+Single+Stage+Headless+Face+Detecto
+https://blog.csdn.net/qq_14845119/article/details/79105360
+https://github.com/mahyarnajibi/SSH/issues?utf8=%E2%9C%93&q=nms
+https://github.com/mahyarnajibi/SSH/issues/54
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=ImportError%3A%20lib%2Fnms%2Fcpu_nms.so%3A%20undefined%20symbol%3A%20PyFPE_jbuf&rsv_pq=dd0ebe5000092784&rsv_t=13b2dJcNqTgeawY8m2U8HXnmsJk3vAbFfSQc%2BP7X1q5X0MoV7MSbKde7ubQ&rqlang=cn&rsv_enter=0&rsv_sug3=1
+https://blog.csdn.net/sunnie_mm/article/details/77981122 | 已解决：undefined symbol: PyFPE_jbuf - sunnie_mm的博客 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=H9pBXL_EJ4fmvATfw5LgBQ&q=markdown+%E8%BE%93%E5%85%A5checkbox&btnK=Google+Search&oq=markdown+%E8%BE%93%E5%85%A5checkbox
+https://www.cnblogs.com/rossoneri/p/4446440.html#%E5%A4%8D%E9%80%89%E6%A1%86%E5%88%97%E8%A1%A8 | [MarkDown] markdown语法小结 - Wossoneri - 博客园
