@@ -1,3 +1,7 @@
+人脸属性数据集
+
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
 https://zhuanlan.zhihu.com/p/41779996
 
 Google AI blog 论文
