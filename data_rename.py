@@ -20,5 +20,5 @@ def rename(path):
 		os.rename(old_dir, new_dir)
 		count += 1
 		print('count:', count)
-rename(path)
+rename(path) 
 
