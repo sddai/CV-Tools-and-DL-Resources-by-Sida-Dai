@@ -9,4 +9,4 @@ Indenticator (高亮深度)
 
 GitLens (git插件)
 
-
+navigate（导航跳转：前进后退）
