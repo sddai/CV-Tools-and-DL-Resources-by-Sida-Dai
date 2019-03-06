@@ -1,3 +1,19 @@
+https://arxiv.org/pdf/1709.00643.pdf
+
+ Unet++
+ 
+ CAN32+resnet(dncnn)
+ 
+ Unet++
+Unet++(deep supervise)
+CAN32+adaptive normalization
+CAN32
+FFDNet
+FFDNet+dilation
+FFDNet+dilation[1_2_5_9]
+Unet(baseline)
+
+
 人脸属性数据集
 
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
