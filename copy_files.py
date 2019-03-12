@@ -5,8 +5,8 @@ import glob
 
 #当前路径文件拷贝到指定位置，可以指定拷贝数目
 src = os.path.abspath(os.path.dirname(os.path.abspath(__file__)) + os.path.sep + ".")
-dst1 = '/home/vision4/VISION/daisida/data/blur/1/'
-dst2 = '/home/vision4/VISION/daisida/data/blur/test/1/'
+dst1 = '/home/1/'
+dst2 = '/home/test/1/'
 
 src += '/result/*.jpg'
 src_paths = glob.glob(src)
