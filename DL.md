@@ -1,3 +1,9 @@
+https://qixinbo.info/2018/07/24/vae/
+
+https://kexue.fm/latex.html
+
+https://kexue.fm/archives/5253
+
 http://www.iocoder.cn/
 
 https://www.imagemagick.org/script/download.php
