@@ -3,7 +3,8 @@
 import os
 import sys
 
-path = "../data/"
+# path = "../data/"
+path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)) + os.path.sep + ".")
 
 def rename(path):
 	count = 0
