@@ -47,19 +47,26 @@ def split(testsize=0.2):
     with open("list.txt", "rb") as f:
         lines = f.read().split('\n')
         lines = np.array(lines)
-
+        # print lines
         # print  lines
-        train, test = train_test_split(lines, test_size = testsize)
+        train, test = train_test_split(lines, test_size = testsize, random_state=1)
+        # print 'train'
+        # print train[4501]
+        # print train[4502]
+        # print "##################"
+        # print train[7293]
         f2 = open('train_list.txt','a')
         for line in train:
-            line = line + '\n'
-            f2.writelines(line)
+            if line:    
+                line = line + '\n'  # 跳过list.txt中的空行（list.txt的最后一行有一个换行符，有一个多余的空行）
+                f2.writelines(line)
         f2.close()
 
         f3 = open('test_list.txt','a')
         for line in test:
-            line = line + '\n'
-            f3.writelines(line)
+            if line:
+                line = line + '\n'
+                f3.writelines(line)
         f3.close()
 
 
