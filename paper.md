@@ -35,3 +35,22 @@ Neural Architecture Optimization. NIPS, 2018.
 Towards Evolutionary Compression. ACM SIGKDD, 2018.
 
 rethinking imagenet pre-training  Kaiming He
+
+
+行人再识别
+有监督：
+表征学习 [Zheng Z et al, ACM TMCCA, 2017.] 
+度量学习 [M. Koestinger et al, CVPR, 2012]
+迁移学习：
+共享嵌入空间 [Peng et al., CVPR, 2016]
+借助额外信息 [Wang et al., CVPR, 2018]
+用GAN去风格迁移 [Wei et al., CVPR, 2018]
+
+
+
+
+
+
+
+
+
