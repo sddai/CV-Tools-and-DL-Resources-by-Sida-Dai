@@ -4,27 +4,27 @@
 
 ## CV Tools
 
-1. 根据列表复制文件<br>
+### 1. Copy files from list<br>
     https://github.com/sddai/repo/blob/master/copy_file_from_list.py
-2. 批量复制文件<br>
+### 2. Copy files in batch<br>
     https://github.com/sddai/repo/blob/master/copy_files.py
-3. 批量修改文件名<br>
+### 3. Rename files in batch<br>
     https://github.com/sddai/repo/blob/master/data_rename.py
-4. 模型转换：Keras2pb<br>
+### 4. Model Converter：Keras2pb<br>
     https://github.com/sddai/repo/blob/master/keras_to_pb.py
-5. 生成训练集和测试集列表<br>
+### 5. Make train list and test list<br>
     https://github.com/sddai/repo/blob/master/make_train_test_list.py
-6. 删除文件名中的空格<br>
+### 6. Rename blank from file name<br>
     https://github.com/sddai/repo/blob/master/remove_blank_from_filename.py
-7. 批量修改图片大小<br>
+### 7. Resize pictures in batch<br>
      https://github.com/sddai/repo/blob/master/resize_pic.py
-8. shuffle训练集和测试集<br>
+### 8. Shuffle trainset and testset<br>
     https://github.com/sddai/repo/blob/master/shuffle_train_test_split.py
-9. SSD解读<br>
+### 9. SSD in action<br>
     https://github.com/sddai/repo/blob/master/ssd_pascal_%E8%A7%A3%E8%AF%BB%E7%89%88.py
-10. 划分训练集合测试集<br>
+### 10. Split trainset and testset<br>
     https://github.com/sddai/repo/blob/master/train_test_split.py
-11. 划分训练集测试机验证集<br>
+### 11. Split trainset, testset and validationset<br>
     https://github.com/sddai/repo/blob/master/train_test_val_split_func.py
 
 
