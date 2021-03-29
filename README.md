@@ -26,9 +26,12 @@
     https://github.com/sddai/repo/blob/master/train_test_split.py
 ### 11. Split trainset, testset and validationset<br>
     https://github.com/sddai/repo/blob/master/train_test_val_split_func.py
-
-
-
+### 12. create_datasets written by Lor<br>
+    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/create_datasets.py
+### 13. rename_files written by Lor<br>
+    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/rename_files.py
+### 14. split_trainval written by Lor<br>
+    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/split_trainval.py
 ## active learning & online learning
 
 http://parnec.nuaa.edu.cn/huangsj/alipy/index.html
