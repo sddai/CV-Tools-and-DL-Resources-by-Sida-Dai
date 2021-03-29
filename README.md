@@ -5,7 +5,7 @@
 ## CV Tools
 
 ### 1. Copy files from list<br>
-    https://github.com/sddai/repo/blob/master/copy_file_from_list.py
+https://github.com/sddai/repo/blob/master/copy_file_from_list.py
 ### 2. Copy files in batch<br>
     https://github.com/sddai/repo/blob/master/copy_files.py
 ### 3. Rename files in batch<br>
