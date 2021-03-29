@@ -7,31 +7,31 @@
 ### 1. Copy files from list<br>
 https://github.com/sddai/repo/blob/master/copy_file_from_list.py
 ### 2. Copy files in batch<br>
-    https://github.com/sddai/repo/blob/master/copy_files.py
+https://github.com/sddai/repo/blob/master/copy_files.py
 ### 3. Rename files in batch<br>
-    https://github.com/sddai/repo/blob/master/data_rename.py
+https://github.com/sddai/repo/blob/master/data_rename.py
 ### 4. Model Converter：Keras2pb<br>
-    https://github.com/sddai/repo/blob/master/keras_to_pb.py
+https://github.com/sddai/repo/blob/master/keras_to_pb.py
 ### 5. Make train list and test list<br>
-    https://github.com/sddai/repo/blob/master/make_train_test_list.py
+https://github.com/sddai/repo/blob/master/make_train_test_list.py
 ### 6. Rename blank from file name<br>
-    https://github.com/sddai/repo/blob/master/remove_blank_from_filename.py
+https://github.com/sddai/repo/blob/master/remove_blank_from_filename.py
 ### 7. Resize pictures in batch<br>
-     https://github.com/sddai/repo/blob/master/resize_pic.py
+https://github.com/sddai/repo/blob/master/resize_pic.py
 ### 8. Shuffle trainset and testset<br>
-    https://github.com/sddai/repo/blob/master/shuffle_train_test_split.py
+https://github.com/sddai/repo/blob/master/shuffle_train_test_split.py
 ### 9. SSD in action<br>
-    https://github.com/sddai/repo/blob/master/ssd_pascal_%E8%A7%A3%E8%AF%BB%E7%89%88.py
+https://github.com/sddai/repo/blob/master/ssd_pascal_%E8%A7%A3%E8%AF%BB%E7%89%88.py
 ### 10. Split trainset and testset<br>
-    https://github.com/sddai/repo/blob/master/train_test_split.py
+https://github.com/sddai/repo/blob/master/train_test_split.py
 ### 11. Split trainset, testset and validationset<br>
-    https://github.com/sddai/repo/blob/master/train_test_val_split_func.py
+https://github.com/sddai/repo/blob/master/train_test_val_split_func.py
 ### 12. create_datasets written by Lor<br>
-    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/create_datasets.py
+https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/create_datasets.py
 ### 13. rename_files written by Lor<br>
-    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/rename_files.py
+https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/rename_files.py
 ### 14. split_trainval written by Lor<br>
-    https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/split_trainval.py
+https://github.com/sddai/CV-Tools-and-DL-Resources-by-Sida-Dai/blob/master/split_trainval.py
 ## active learning & online learning
 
 http://parnec.nuaa.edu.cn/huangsj/alipy/index.html
